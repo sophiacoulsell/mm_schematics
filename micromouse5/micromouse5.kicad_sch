@@ -7189,7 +7189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT-23_3L_ONS"
+		(property "Footprint" "Mosfet:SOT-23_3L_ONS"
 			(at 196.85 128.27 0)
 			(effects
 				(font
@@ -7567,7 +7567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAP_GRM0805_2X1P25_MUR"
+		(property "Footprint" "Capacitor-0.1uF:CAP_GRM0805_2X1P25_MUR"
 			(at 185.42 26.67 0)
 			(effects
 				(font
@@ -7992,7 +7992,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAP_GRM0805_2X1P25_MUR"
+		(property "Footprint" "Capacitor-0.1uF:CAP_GRM0805_2X1P25_MUR"
 			(at 270.51 113.03 0)
 			(effects
 				(font
@@ -8272,7 +8272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CAP_GRM0805_2X1P25_MUR"
+		(property "Footprint" "Capacitor-0.1uF:CAP_GRM0805_2X1P25_MUR"
 			(at 58.42 57.15 0)
 			(effects
 				(font
@@ -8976,7 +8976,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "NoneP157X157-2_LTO"
+		(property "Footprint" "IR- Receiver:NoneP157X157-2_LTO"
 			(at 186.69 76.2 0)
 			(effects
 				(font
