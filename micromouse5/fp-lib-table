@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "micromouse5-old")(type "KiCad")(uri "/Users/summerdixon/Documents/GitHub/mm_schematics/micromouse5/footprints/micromouse5.pretty")(options "")(descr "")(disabled))
+  (lib (name "micromouse5")(type "KiCad")(uri "${KIPRJMOD}/footprints/micromouse5.pretty")(options "")(descr ""))
+)
