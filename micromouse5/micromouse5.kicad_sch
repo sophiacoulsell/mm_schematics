@@ -7189,7 +7189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Mosfet:SOT-23_3L_ONS"
+		(property "Footprint" "micromouse5:SOT-23_3L_ONS (mosfet)"
 			(at 196.85 128.27 0)
 			(effects
 				(font
@@ -7330,7 +7330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SFH_4545:DIO_SFH_4545"
+		(property "Footprint" "micromouse5:DIO_SFH_4545 (IR- Emitter)"
 			(at 237.49 110.49 0)
 			(effects
 				(font
@@ -8064,7 +8064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN2_B2B-PH-K-S_JST"
+		(property "Footprint" ""
 			(at 31.75 165.1 0)
 			(effects
 				(font
@@ -8344,7 +8344,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "BO_CR0805"
+		(property "Footprint" ""
 			(at 237.49 97.79 0)
 			(effects
 				(font
@@ -8835,7 +8835,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RK73H2ARTTD4702F:RESC2012X60N"
+		(property "Footprint" "micromouse5:RESC2012X60N (47kΩ)"
 			(at 199.39 142.24 0)
 			(effects
 				(font
@@ -8976,7 +8976,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "IR- Receiver:NoneP157X157-2_LTO"
+		(property "Footprint" "micromouse5:NoneP157X157-2_LTO (IR- Receiver)"
 			(at 186.69 76.2 0)
 			(effects
 				(font
@@ -9048,7 +9048,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RK73H2ATTD1801F:RESC2012X60N"
+		(property "Footprint" "micromouse5:RESC2012X60N (1.8kΩ)"
 			(at 186.69 86.36 0)
 			(effects
 				(font
@@ -9189,7 +9189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CONN2_B2B-PH-K-S_JST"
+		(property "Footprint" ""
 			(at 31.75 153.67 0)
 			(effects
 				(font
@@ -9463,7 +9463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "STA_RNCP0805_STP"
+		(property "Footprint" ""
 			(at 184.15 128.27 0)
 			(effects
 				(font
