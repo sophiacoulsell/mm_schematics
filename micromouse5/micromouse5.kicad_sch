@@ -7709,7 +7709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AZ1117IH-3.3TRG1:SOT230P700X185-4N"
+		(property "Footprint" "micromouse5:SOT230P700X185-4N"
 			(at 83.82 161.29 0)
 			(effects
 				(font
