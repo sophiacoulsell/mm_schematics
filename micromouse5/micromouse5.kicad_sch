@@ -7567,7 +7567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor-0.1uF:CAP_GRM0805_2X1P25_MUR"
+		(property "Footprint" "micromouse5:CAP_GRM0805_2X1P25_MUR"
 			(at 185.42 26.67 0)
 			(effects
 				(font
@@ -7639,7 +7639,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "G-21_MUR"
+		(property "Footprint" "micromouse5:G-21_MUR(10)"
 			(at 66.04 148.59 0)
 			(effects
 				(font
@@ -7992,7 +7992,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor-0.1uF:CAP_GRM0805_2X1P25_MUR"
+		(property "Footprint" "micromouse5:G-21_MUR(0.1)"
 			(at 270.51 113.03 0)
 			(effects
 				(font
@@ -8202,7 +8202,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "GRM21BR61A226ME51L:CAPC2012X140N"
+		(property "Footprint" "micromouse5:CAPC2012X140N"
 			(at 107.95 147.32 0)
 			(effects
 				(font
@@ -8272,7 +8272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor-0.1uF:CAP_GRM0805_2X1P25_MUR"
+		(property "Footprint" "micromouse5:CAP_GRM0805_2X1P25_MUR"
 			(at 58.42 57.15 0)
 			(effects
 				(font
@@ -8573,7 +8573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "G-21_MUR"
+		(property "Footprint" "micromouse5:G-21_MUR(10)"
 			(at 162.56 34.29 0)
 			(effects
 				(font
@@ -8643,7 +8643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SO-20_STM"
+		(property "Footprint" "micromouse5:SO-20_STM"
 			(at 87.63 26.67 0)
 			(effects
 				(font
@@ -9260,7 +9260,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "G-21_MUR"
+		(property "Footprint" "micromouse5:G-21_MUR(0.1)"
 			(at 80.01 49.53 0)
 			(effects
 				(font
@@ -9601,7 +9601,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "G-21_MUR"
+		(property "Footprint" "micromouse5:CAP_GRM0805_2X1P25_MUR"
 			(at 262.89 113.03 0)
 			(effects
 				(font
