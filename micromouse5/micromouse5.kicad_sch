@@ -7330,7 +7330,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "micromouse5:BO_CR0805"
+		(property "Footprint" "micromouse5:BO_CR0805(51 ohm)"
 			(at 237.49 97.79 0)
 			(effects
 				(font
