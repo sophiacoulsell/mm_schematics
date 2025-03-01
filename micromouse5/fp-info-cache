@@ -13,6 +13,7 @@ SOT230P700X185-4N
 0
 4
 4
+24213858977272123
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2722,6 +2723,27 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
+Capacitor-0.1uF
+CAP_GRM0805_2X1P25_MUR
+
+GRM21BR71C475KE51L 
+0
+2
+2
+Capacitor-0.1uF
+CAP_GRM0805_2X1P25_MUR-L
+
+GRM21BR71C475KE51L 
+0
+2
+2
+Capacitor-0.1uF
+CAP_GRM0805_2X1P25_MUR-M
+
+GRM21BR71C475KE51L 
+0
+2
+2
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -58050,6 +58072,20 @@ heatsink
 0
 0
 0
+IR- Receiver
+NoneP157X157-2_LTO
+
+LTR-4206E 
+0
+2
+2
+IR-Emitter
+DIO_SFH_4545
+
+
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -65617,6 +65653,27 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Mosfet
+SOT-23_3L_ONS
+
+2N7002LT1G 
+0
+3
+3
+Mosfet
+SOT-23_3L_ONS-L
+
+2N7002LT1G 
+0
+3
+3
+Mosfet
+SOT-23_3L_ONS-M
+
+2N7002LT1G 
+0
+3
+3
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -88668,6 +88725,20 @@ Standex Meder SIL reed relais
 0
 4
 4
+Resistor- 1.8kohm
+RESC2012X60N
+
+
+0
+2
+2
+Resistor- 47k ohm
+RESC2012X60N
+
+
+0
+2
+2
 Resistor_SMD
 R_0201_0603Metric
 Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
