@@ -1,18 +1,32 @@
-24253759098649498
-ARDUINO_MKR_WAN_1310
-BOARD_ARDUINO_MKR_WAN_1310
+24210315056812290
+0.1_uF_Capacitor
+CAPC2012X140N
 
 
 0
-28
-28
-AZ1117IH-3.3TRG1
-SOT230P700X185-4N
+2
+2
+4.7_uF_Capacitor
+CAPC1005X55N
 
 
 0
-4
-4
+2
+2
+10_Microfarad_Capacitor_GRM21BR61C106KE15L
+CAPC2012X135N
+
+
+0
+2
+2
+22_Microfarad_Capacitor_GRM21BR61A226ME51L
+CAPC2012X140N
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -27,13 +41,6 @@ audio belton reverb
 0
 7
 7
-B2B_PH_K_S
-CONN2_B2B-PH-K-S_JST
-
-B2B-PH-K-S 
-0
-2
-2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2586,27 +2593,6 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
-0
-2
-2
-CRM0805-FX-51R0ELF (51 ohm)
-BO_CR0805
-
-CRM0805-FX-51R0ELF 
-0
-2
-2
-CRM0805-FX-51R0ELF (51 ohm)
-BO_CR0805-L
-
-CRM0805-FX-51R0ELF 
-0
-2
-2
-CRM0805-FX-51R0ELF (51 ohm)
-BO_CR0805-M
-
-CRM0805-FX-51R0ELF 
 0
 2
 2
@@ -57861,76 +57847,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-GCJ21BR72A104KA01L (0.1)
-G-21_MUR
-
-GCJ21BR72A104KA01L 
-0
-2
-2
-GCJ21BR72A104KA01L (0.1)
-G-21_MUR-L
-
-GCJ21BR72A104KA01L 
-0
-2
-2
-GCJ21BR72A104KA01L (0.1)
-G-21_MUR-M
-
-GCJ21BR72A104KA01L 
-0
-2
-2
-GRM21BR61A226ME51L(22)
-CAPC2012X140N
+H-Bridge
+SOIC127P1032X265-20N
 
 
 0
-2
-2
-GRM21BR61C106KE15L(10)
-G-21_MUR
-
-GRM21BR61C106KE15L 
-0
-2
-2
-GRM21BR61C106KE15L(10)
-G-21_MUR-L
-
-GRM21BR61C106KE15L 
-0
-2
-2
-GRM21BR61C106KE15L(10)
-G-21_MUR-M
-
-GRM21BR61C106KE15L 
-0
-2
-2
-GRM21BR71C475KE51L(4.7)
-CAP_GRM0805_2X1P25_MUR
-
-GRM21BR71C475KE51L 
-0
-2
-2
-GRM21BR71C475KE51L(4.7)
-CAP_GRM0805_2X1P25_MUR-L
-
-GRM21BR71C475KE51L 
-0
-2
-2
-GRM21BR71C475KE51L(4.7)
-CAP_GRM0805_2X1P25_MUR-M
-
-GRM21BR71C475KE51L 
-0
-2
-2
+20
+20
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -64000,6 +63923,13 @@ THT
 0
 4
 2
+JST_Connector_footprints
+CONN2_B2B-PH-K-S_JST
+
+B2B-PH-K-S 
+0
+2
+2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -64147,27 +64077,6 @@ solder jumper open
 0
 5
 3
-L293DD
-SO-20_STM
-
-L293DD 
-0
-20
-20
-L293DD
-SO-20_STM-L
-
-L293DD 
-0
-20
-20
-L293DD
-SO-20_STM-M
-
-L293DD 
-0
-20
-20
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -98097,91 +98006,7 @@ Varistor VF
 0
 2
 2
-micromouse5
-BO_CR0805
-
-CRM0805-FX-51R0ELF 
-0
-2
-2
-micromouse5
-CAPC2012X140N
-
-
-0
-2
-2
-micromouse5
-CAP_GRM0805_2X1P25_MUR
-
-GRM21BR71C475KE51L 
-0
-2
-2
-micromouse5
-CONN2_B2B-PH-K-S_JST
-
-B2B-PH-K-S 
-0
-2
-2
-micromouse5
-DIO_SFH_4545 (IR- Emitter)
-
-
-0
-2
-2
-micromouse5
-G-21_MUR(0.1)
-
-GCJ21BR72A104KA01L 
-0
-2
-2
-micromouse5
-G-21_MUR(10)
-
-GRM21BR61C106KE15L 
-0
-2
-2
-micromouse5
-NoneP157X157-2_LTO (IR- Receiver)
-
-LTR-4206E 
-0
-2
-2
-micromouse5
-RESC2012X60N (1.8kΩ)
-
-
-0
-2
-2
-micromouse5
-RESC2012X60N (47kΩ)
-
-
-0
-2
-2
-micromouse5
-SO-20_STM
-
-L293DD 
-0
-20
-20
-micromouse5
-SOT-23_3L_ONS (mosfet)
-
-2N7002LT1G 
-0
-3
-3
-micromouse5
+Voltage_Regulator_AZ1117IH-3.3TRG1
 SOT230P700X185-4N
 
 
@@ -98189,9 +98014,9 @@ SOT230P700X185-4N
 4
 4
 micromouse5
-STA_RNCP0805_STP(100 ohm)
+CONN2_B2B-PH-K-S_JST
 
-RNCP0805FTD100R 
+B2B-PH-K-S 
 0
 2
 2

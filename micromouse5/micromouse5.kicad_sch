@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "afbe2d40-4a52-44ad-a632-ed06745a7c8a")
-	(paper "A4")
+	(paper "A1")
 	(lib_symbols
 		(symbol "AZ1117IH-3.3TRG1:AZ1117IH-3.3TRG1"
 			(pin_names
@@ -5608,16 +5608,52 @@
 		(uuid "0676847b-eb32-4196-a9e1-262118e5cbc0")
 	)
 	(junction
-		(at 237.49 77.47)
+		(at 312.42 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0cb72055-4a44-4370-a063-58f4f356dd5b")
+	)
+	(junction
+		(at 341.63 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0cf06598-9ef5-4d21-ab7f-b1711b643443")
 	)
 	(junction
 		(at 185.42 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "112412b7-4ae7-4a83-b411-fada9a7e5c6e")
+	)
+	(junction
+		(at 312.42 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "214bc0db-562d-4d7f-82ec-5cd797ed7eec")
+	)
+	(junction
+		(at 441.96 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a3c45c4-a53a-4a89-ae3f-c8be05c0b1c8")
+	)
+	(junction
+		(at 471.17 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f4aa2e7-7e42-4a29-9192-fbcd939aa8df")
+	)
+	(junction
+		(at 441.96 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46fa35f6-0505-492c-88b8-df8b1d8bc004")
+	)
+	(junction
+		(at 469.9 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d4dc20d-a133-4f04-9fe2-a1e6ad32c9e0")
 	)
 	(junction
 		(at 107.95 156.21)
@@ -5632,10 +5668,34 @@
 		(uuid "55322f86-3914-4f3f-9e52-3c41a27b18db")
 	)
 	(junction
-		(at 238.76 152.4)
+		(at 441.96 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55e49d5d-0fa5-4128-b9d0-24cf036c2360")
+	)
+	(junction
+		(at 313.69 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ed0c115-c20f-485d-9e73-216dbf1b44e6")
+	)
+	(junction
+		(at 441.96 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62a94155-e6a4-4e71-9e48-26f5f20f5bd7")
+	)
+	(junction
+		(at 443.23 265.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e7de972-06e1-48d3-b167-5d60c2be9f9f")
+	)
+	(junction
+		(at 340.36 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71d499ef-c903-43b2-9a1e-bc5f3e8a8243")
 	)
 	(junction
 		(at 162.56 26.67)
@@ -5650,22 +5710,40 @@
 		(uuid "90188837-62bf-455a-addf-e33ff9e736f3")
 	)
 	(junction
-		(at 266.7 119.38)
+		(at 341.63 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9218919d-1bbb-41e0-98be-da65eefda9ae")
 	)
 	(junction
-		(at 237.49 102.87)
+		(at 312.42 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92f80c97-337c-4359-9502-caf3437d6929")
+	)
+	(junction
+		(at 312.42 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "962a9509-77ad-422f-97d5-5bbb38f3ae2c")
 	)
 	(junction
-		(at 265.43 99.06)
+		(at 471.17 232.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0b2fd90-144c-4e44-abf6-84a7ddb09b01")
+	)
+	(junction
+		(at 340.36 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5160af1-3b15-40dd-a645-3f52f568531f")
+	)
+	(junction
+		(at 313.69 265.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0a0354c-d7c5-44fb-95b8-e00319199920")
 	)
 	(junction
 		(at 58.42 57.15)
@@ -5674,14 +5752,26 @@
 		(uuid "c9fd5897-ec8a-4c28-a0d2-5d79bb3719ff")
 	)
 	(junction
+		(at 469.9 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d137a623-5df3-4217-94bc-978079854cca")
+	)
+	(junction
 		(at 80.01 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eee564b0-27ad-4206-a2b2-d74b8a85dfe2")
 	)
+	(junction
+		(at 443.23 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9f296c0-08bd-4587-9e60-39be93b02870")
+	)
 	(wire
 		(pts
-			(xy 262.89 113.03) (xy 262.89 119.38)
+			(xy 337.82 92.71) (xy 337.82 99.06)
 		)
 		(stroke
 			(width 0)
@@ -5691,13 +5781,33 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 128.27) (xy 238.76 152.4)
+			(xy 441.96 210.82) (xy 441.96 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02ffc031-6633-4036-af87-9c7c73152c52")
+	)
+	(wire
+		(pts
+			(xy 313.69 107.95) (xy 313.69 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0471102c-a9a4-4bb0-b717-6991a0431e1f")
+	)
+	(wire
+		(pts
+			(xy 467.36 212.09) (xy 469.9 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08b53a33-6cb6-4de4-a2e7-919f35fb1b16")
 	)
 	(wire
 		(pts
@@ -5708,6 +5818,46 @@
 			(type default)
 		)
 		(uuid "0d5c1940-f0e3-4981-bf42-1ab071d84e1a")
+	)
+	(wire
+		(pts
+			(xy 467.36 78.74) (xy 469.9 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d6eec8b-957a-41a5-94df-a007c941fd94")
+	)
+	(wire
+		(pts
+			(xy 316.23 243.84) (xy 316.23 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e1d2024-9123-470a-b1b4-276f67c19989")
+	)
+	(wire
+		(pts
+			(xy 312.42 231.14) (xy 312.42 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10d0d663-2b65-4084-946f-ff76ead7c7fc")
+	)
+	(wire
+		(pts
+			(xy 441.96 97.79) (xy 441.96 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1427ca70-e6d6-4e1a-aeb6-aa5d65d3d73f")
 	)
 	(wire
 		(pts
@@ -5731,7 +5881,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 119.38) (xy 266.7 152.4)
+			(xy 341.63 99.06) (xy 341.63 132.08)
 		)
 		(stroke
 			(width 0)
@@ -5741,13 +5891,53 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 77.47) (xy 265.43 99.06)
+			(xy 403.86 265.43) (xy 443.23 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1766fa82-4fb0-4f59-905f-52c85537d8fb")
+	)
+	(wire
+		(pts
+			(xy 340.36 57.15) (xy 340.36 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "18a50892-fa48-4cff-b784-e90744a50cac")
+	)
+	(wire
+		(pts
+			(xy 312.42 210.82) (xy 312.42 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "197c1ab1-8894-4fe6-8b99-8bf6696aa26f")
+	)
+	(wire
+		(pts
+			(xy 337.82 226.06) (xy 337.82 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a38bd54-750a-4149-a877-7626c61b9bf0")
+	)
+	(wire
+		(pts
+			(xy 443.23 265.43) (xy 443.23 267.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ad43b83-10c1-4606-afbb-0ed168314214")
 	)
 	(wire
 		(pts
@@ -5761,7 +5951,17 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 118.11) (xy 237.49 115.57)
+			(xy 345.44 226.06) (xy 345.44 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cc1a91e-65f2-411c-a2f3-ed539850a2f4")
+	)
+	(wire
+		(pts
+			(xy 312.42 97.79) (xy 312.42 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5781,7 +5981,17 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 128.27) (xy 184.15 128.27)
+			(xy 391.16 76.2) (xy 391.16 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22b965e8-356c-4a6d-946c-70fda5dc95e6")
+	)
+	(wire
+		(pts
+			(xy 252.73 107.95) (xy 259.08 107.95)
 		)
 		(stroke
 			(width 0)
@@ -5801,6 +6011,16 @@
 	)
 	(wire
 		(pts
+			(xy 467.36 212.09) (xy 467.36 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb0e1de-c9f1-4b26-9ff5-2dd03a9c9d30")
+	)
+	(wire
+		(pts
 			(xy 107.95 149.86) (xy 107.95 156.21)
 		)
 		(stroke
@@ -5811,7 +6031,17 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 77.47) (xy 237.49 85.09)
+			(xy 341.63 232.41) (xy 341.63 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cddbd77-ef2f-4ed9-80c2-61b519e5abda")
+	)
+	(wire
+		(pts
+			(xy 312.42 57.15) (xy 312.42 64.77)
 		)
 		(stroke
 			(width 0)
@@ -5821,13 +6051,63 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 130.81) (xy 241.3 130.81)
+			(xy 441.96 107.95) (xy 443.23 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35712e97-6b8c-4f96-b887-c306c8d5b559")
+	)
+	(wire
+		(pts
+			(xy 345.44 212.09) (xy 345.44 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35c871cd-2632-4ae2-bc34-a420e15fd35e")
+	)
+	(wire
+		(pts
+			(xy 340.36 190.5) (xy 340.36 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ac2398c-fe88-4248-a86a-d0c7358520ef")
+	)
+	(wire
+		(pts
+			(xy 312.42 110.49) (xy 316.23 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3cf7b1e6-62de-4357-9e54-b19708881ec5")
+	)
+	(wire
+		(pts
+			(xy 441.96 82.55) (xy 441.96 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d266b90-a32b-459d-8ad7-b83e3b30ab7b")
+	)
+	(wire
+		(pts
+			(xy 261.62 209.55) (xy 261.62 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f496e8d-0530-4508-8ca7-8c898b990983")
 	)
 	(wire
 		(pts
@@ -5838,6 +6118,36 @@
 			(type default)
 		)
 		(uuid "402eeaaa-e767-41e3-8e65-b4592d08b7dd")
+	)
+	(wire
+		(pts
+			(xy 443.23 132.08) (xy 471.17 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "404a5664-7a4d-44bb-843f-a76a9714d938")
+	)
+	(wire
+		(pts
+			(xy 252.73 241.3) (xy 259.08 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42882763-6aea-4d41-9dd3-7138bf3f33d6")
+	)
+	(wire
+		(pts
+			(xy 474.98 226.06) (xy 474.98 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42a39b15-a4d7-42f7-aa52-b0d925e4006e")
 	)
 	(wire
 		(pts
@@ -5861,6 +6171,36 @@
 	)
 	(wire
 		(pts
+			(xy 441.96 185.42) (xy 441.96 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a22d6d2-a644-4a6c-b204-81744cf6958d")
+	)
+	(wire
+		(pts
+			(xy 445.77 110.49) (xy 445.77 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c20a83d-cfc4-4791-8f60-4512e04edb72")
+	)
+	(wire
+		(pts
+			(xy 312.42 185.42) (xy 312.42 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cf7bfde-69f3-45be-a9cc-0a2a9735f5c5")
+	)
+	(wire
+		(pts
 			(xy 66.04 137.16) (xy 66.04 140.97)
 		)
 		(stroke
@@ -5871,7 +6211,37 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 152.4) (xy 238.76 152.4)
+			(xy 469.9 212.09) (xy 474.98 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "506f6d89-15a8-4ccd-816a-bba0c43e5222")
+	)
+	(wire
+		(pts
+			(xy 313.69 265.43) (xy 313.69 267.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "526f9db4-5d45-4ea0-a3f8-99f8cde68c47")
+	)
+	(wire
+		(pts
+			(xy 445.77 231.14) (xy 441.96 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "588538a7-aae2-49c0-847e-a3c31266ded5")
+	)
+	(wire
+		(pts
+			(xy 274.32 132.08) (xy 313.69 132.08)
 		)
 		(stroke
 			(width 0)
@@ -5888,6 +6258,26 @@
 			(type default)
 		)
 		(uuid "5a885f02-f320-4a09-b48a-4d4be65d411a")
+	)
+	(wire
+		(pts
+			(xy 467.36 226.06) (xy 467.36 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b202303-fcc0-41b7-b7df-ece93a1e2c0d")
+	)
+	(wire
+		(pts
+			(xy 471.17 99.06) (xy 471.17 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ba0aa25-5ec2-4789-9a95-97a3c2e568d1")
 	)
 	(wire
 		(pts
@@ -5911,6 +6301,16 @@
 	)
 	(wire
 		(pts
+			(xy 467.36 232.41) (xy 471.17 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60bb7f91-595f-4418-8b60-57aefe00f78e")
+	)
+	(wire
+		(pts
 			(xy 143.51 26.67) (xy 162.56 26.67)
 		)
 		(stroke
@@ -5918,6 +6318,36 @@
 			(type default)
 		)
 		(uuid "617bf69b-552c-45aa-a964-824175c9cc44")
+	)
+	(wire
+		(pts
+			(xy 474.98 212.09) (xy 474.98 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6381ab6d-5099-4da0-86e3-773d582c1257")
+	)
+	(wire
+		(pts
+			(xy 443.23 265.43) (xy 471.17 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6692eeee-6d73-4ce9-8d03-24e7ba0cd09d")
+	)
+	(wire
+		(pts
+			(xy 441.96 52.07) (xy 441.96 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6977ecf6-bdd6-4499-bda3-65e2e84765be")
 	)
 	(wire
 		(pts
@@ -5931,7 +6361,37 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 152.4) (xy 238.76 154.94)
+			(xy 313.69 241.3) (xy 313.69 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d62572a-42b0-4fee-90b6-c2d841c7746a")
+	)
+	(wire
+		(pts
+			(xy 337.82 212.09) (xy 337.82 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "710289d4-7269-4ac1-899c-06173a0ee68c")
+	)
+	(wire
+		(pts
+			(xy 469.9 190.5) (xy 469.9 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7117b920-7439-42ee-aecb-91c0a6ddb9be")
+	)
+	(wire
+		(pts
+			(xy 313.69 132.08) (xy 313.69 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5951,6 +6411,26 @@
 	)
 	(wire
 		(pts
+			(xy 312.42 190.5) (xy 312.42 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "767eb241-28c2-415b-b2e2-26b82901ea15")
+	)
+	(wire
+		(pts
+			(xy 403.86 107.95) (xy 403.86 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "792d1ef3-ee72-46a9-be00-9e0a8577ef90")
+	)
+	(wire
+		(pts
 			(xy 144.78 49.53) (xy 143.51 49.53)
 		)
 		(stroke
@@ -5958,6 +6438,26 @@
 			(type default)
 		)
 		(uuid "7a8c3206-0e15-4863-99bf-b5da1b592df2")
+	)
+	(wire
+		(pts
+			(xy 467.36 78.74) (xy 467.36 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7abd7bbf-8376-41e7-9834-4898255862a2")
+	)
+	(wire
+		(pts
+			(xy 441.96 215.9) (xy 441.96 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ac794bd-e3c0-433e-a856-db2c8a83eff8")
 	)
 	(wire
 		(pts
@@ -5971,13 +6471,43 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 99.06) (xy 262.89 105.41)
+			(xy 312.42 215.9) (xy 312.42 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7be4634a-b3b5-4ef0-8a56-c45de0005890")
+	)
+	(wire
+		(pts
+			(xy 337.82 78.74) (xy 337.82 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "817d1c50-ab28-43c4-946b-ae03692aebd0")
+	)
+	(wire
+		(pts
+			(xy 441.96 110.49) (xy 445.77 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "820b13ff-36f0-4131-af10-e38e31e43a8b")
+	)
+	(wire
+		(pts
+			(xy 312.42 243.84) (xy 316.23 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8430be2b-2d35-40e5-969a-45fccc1e2308")
 	)
 	(wire
 		(pts
@@ -6001,6 +6531,16 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 232.41) (xy 341.63 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87e6a841-0a0c-469d-80d0-268853809ca3")
+	)
+	(wire
+		(pts
 			(xy 83.82 73.66) (xy 88.9 73.66)
 		)
 		(stroke
@@ -6021,7 +6561,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 118.11) (xy 237.49 118.11)
+			(xy 316.23 97.79) (xy 312.42 97.79)
 		)
 		(stroke
 			(width 0)
@@ -6051,7 +6591,17 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 128.27) (xy 238.76 128.27)
+			(xy 471.17 232.41) (xy 471.17 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e973f86-615a-4349-8c72-00692c2fb51f")
+	)
+	(wire
+		(pts
+			(xy 312.42 107.95) (xy 313.69 107.95)
 		)
 		(stroke
 			(width 0)
@@ -6061,13 +6611,53 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 130.81) (xy 241.3 118.11)
+			(xy 316.23 110.49) (xy 316.23 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "963de3a6-0479-49e6-bdf2-95785167fab9")
+	)
+	(wire
+		(pts
+			(xy 441.96 243.84) (xy 445.77 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98ca3cf0-a7c6-46fd-b755-19f3ee1b084e")
+	)
+	(wire
+		(pts
+			(xy 441.96 77.47) (xy 441.96 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "997195b7-3c86-49b8-96c4-b5eb7a99cf5f")
+	)
+	(wire
+		(pts
+			(xy 469.9 78.74) (xy 474.98 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99ecd373-45ad-4749-be8f-4b5bbea397d3")
+	)
+	(wire
+		(pts
+			(xy 312.42 190.5) (xy 340.36 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a5d489b-6e5f-49c9-ad28-0270f3694ec4")
 	)
 	(wire
 		(pts
@@ -6091,7 +6681,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 99.06) (xy 265.43 99.06)
+			(xy 337.82 78.74) (xy 340.36 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6131,13 +6721,33 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 72.39) (xy 237.49 77.47)
+			(xy 403.86 241.3) (xy 403.86 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a52b47b5-6360-48ba-ad8e-5e426495f7a5")
+	)
+	(wire
+		(pts
+			(xy 312.42 52.07) (xy 312.42 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a68b3a16-6c9e-40d7-a4eb-b4ff5b0a65c2")
+	)
+	(wire
+		(pts
+			(xy 441.96 190.5) (xy 441.96 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a871013a-5f02-4203-9854-deae1db9c0c6")
 	)
 	(wire
 		(pts
@@ -6151,7 +6761,27 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 119.38) (xy 270.51 119.38)
+			(xy 340.36 212.09) (xy 345.44 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acda1790-32de-4347-9b48-38bafd4dba07")
+	)
+	(wire
+		(pts
+			(xy 471.17 232.41) (xy 474.98 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad228bcf-4317-4056-a2b4-bddcdf3afd65")
+	)
+	(wire
+		(pts
+			(xy 341.63 99.06) (xy 345.44 99.06)
 		)
 		(stroke
 			(width 0)
@@ -6161,7 +6791,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 99.06) (xy 270.51 99.06)
+			(xy 340.36 78.74) (xy 345.44 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6171,7 +6801,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 152.4) (xy 266.7 152.4)
+			(xy 313.69 132.08) (xy 341.63 132.08)
 		)
 		(stroke
 			(width 0)
@@ -6201,7 +6831,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 119.38) (xy 266.7 119.38)
+			(xy 337.82 99.06) (xy 341.63 99.06)
 		)
 		(stroke
 			(width 0)
@@ -6221,7 +6851,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 96.52) (xy 186.69 102.87)
+			(xy 261.62 76.2) (xy 261.62 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6241,7 +6871,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 102.87) (xy 237.49 104.14)
+			(xy 312.42 82.55) (xy 312.42 83.82)
 		)
 		(stroke
 			(width 0)
@@ -6258,6 +6888,36 @@
 			(type default)
 		)
 		(uuid "bdaed923-f6c5-4ec8-94bf-290bb278d769")
+	)
+	(wire
+		(pts
+			(xy 445.77 97.79) (xy 441.96 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be269ec8-c364-4d29-b46c-11c98f24074a")
+	)
+	(wire
+		(pts
+			(xy 441.96 241.3) (xy 443.23 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be6189af-1bfe-4e81-95ee-4d63a43ea3bb")
+	)
+	(wire
+		(pts
+			(xy 391.16 209.55) (xy 391.16 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be699d28-fb03-4257-9267-b154abd3d2f8")
 	)
 	(wire
 		(pts
@@ -6291,6 +6951,66 @@
 	)
 	(wire
 		(pts
+			(xy 474.98 78.74) (xy 474.98 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6fe3351-263a-4e3e-baa4-6ba7fedae4d9")
+	)
+	(wire
+		(pts
+			(xy 467.36 99.06) (xy 471.17 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c85b59c9-3a1b-48fa-b8d2-a6f9774fef41")
+	)
+	(wire
+		(pts
+			(xy 471.17 99.06) (xy 474.98 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9376fea-2575-4712-a128-bcb588346881")
+	)
+	(wire
+		(pts
+			(xy 274.32 265.43) (xy 313.69 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cacad737-b802-43d9-b2fe-f976898d23c2")
+	)
+	(wire
+		(pts
+			(xy 312.42 241.3) (xy 313.69 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb75a6d8-c9e9-48c1-81a6-bc2611798e77")
+	)
+	(wire
+		(pts
+			(xy 441.96 57.15) (xy 441.96 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbec2b9d-40b8-4f21-9c23-f96e2e5fdc82")
+	)
+	(wire
+		(pts
 			(xy 83.82 31.75) (xy 87.63 31.75)
 		)
 		(stroke
@@ -6298,6 +7018,26 @@
 			(type default)
 		)
 		(uuid "ccf1d8a3-f43d-4639-a39c-141317db5ef1")
+	)
+	(wire
+		(pts
+			(xy 382.27 107.95) (xy 388.62 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce47bffb-8043-49b6-a7ec-3aa2fc178e5d")
+	)
+	(wire
+		(pts
+			(xy 403.86 132.08) (xy 443.23 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf5d8e61-0a6e-43bd-afdc-ed196f45ef52")
 	)
 	(wire
 		(pts
@@ -6311,6 +7051,26 @@
 	)
 	(wire
 		(pts
+			(xy 316.23 231.14) (xy 312.42 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0ce4550-9f16-4cb3-b0f1-16bab49e8176")
+	)
+	(wire
+		(pts
+			(xy 441.96 231.14) (xy 441.96 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1c14037-abed-4898-ace0-45e495ee2b5c")
+	)
+	(wire
+		(pts
 			(xy 58.42 57.15) (xy 80.01 57.15)
 		)
 		(stroke
@@ -6321,7 +7081,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 97.79) (xy 237.49 102.87)
+			(xy 312.42 77.47) (xy 312.42 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6341,7 +7101,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 99.06) (xy 270.51 105.41)
+			(xy 345.44 78.74) (xy 345.44 85.09)
 		)
 		(stroke
 			(width 0)
@@ -6371,6 +7131,16 @@
 	)
 	(wire
 		(pts
+			(xy 467.36 92.71) (xy 467.36 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3895175-cfa4-48ed-9e77-95e2dcaf9da0")
+	)
+	(wire
+		(pts
 			(xy 83.82 81.28) (xy 96.52 81.28)
 		)
 		(stroke
@@ -6391,6 +7161,26 @@
 	)
 	(wire
 		(pts
+			(xy 474.98 92.71) (xy 474.98 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e61bf7aa-a3bd-4f15-8c51-03ca8a47b5ea")
+	)
+	(wire
+		(pts
+			(xy 443.23 107.95) (xy 443.23 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e687e8fa-a5cc-4790-a5d9-adefc547e99f")
+	)
+	(wire
+		(pts
 			(xy 40.64 83.82) (xy 45.72 83.82)
 		)
 		(stroke
@@ -6398,6 +7188,26 @@
 			(type default)
 		)
 		(uuid "e7135762-7b88-4561-8d44-475425183185")
+	)
+	(wire
+		(pts
+			(xy 441.96 190.5) (xy 469.9 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e732e796-b61d-4bb1-b97f-58f4143a8335")
+	)
+	(wire
+		(pts
+			(xy 441.96 57.15) (xy 469.9 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7504532-3ddc-4993-9108-eacbb61cd264")
 	)
 	(wire
 		(pts
@@ -6411,6 +7221,16 @@
 	)
 	(wire
 		(pts
+			(xy 469.9 57.15) (xy 469.9 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e972f5e0-44be-4870-b196-e29443122a0c")
+	)
+	(wire
+		(pts
 			(xy 74.93 29.21) (xy 87.63 29.21)
 		)
 		(stroke
@@ -6421,7 +7241,17 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 113.03) (xy 270.51 119.38)
+			(xy 443.23 132.08) (xy 443.23 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eaf9ff36-edc0-4ccc-8127-8e15a12b6d86")
+	)
+	(wire
+		(pts
+			(xy 345.44 92.71) (xy 345.44 99.06)
 		)
 		(stroke
 			(width 0)
@@ -6441,7 +7271,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 128.27) (xy 199.39 132.08)
+			(xy 274.32 107.95) (xy 274.32 111.76)
 		)
 		(stroke
 			(width 0)
@@ -6451,13 +7281,211 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 77.47) (xy 265.43 77.47)
+			(xy 445.77 243.84) (xy 445.77 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f42ab389-181e-4dba-bbf0-3ab2024e229c")
+	)
+	(wire
+		(pts
+			(xy 341.63 232.41) (xy 345.44 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f48a5306-ba2f-46b8-b364-026c26efb83e")
+	)
+	(wire
+		(pts
+			(xy 337.82 212.09) (xy 340.36 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5b87926-d5b7-4a4a-9009-e14a89615545")
+	)
+	(wire
+		(pts
+			(xy 312.42 57.15) (xy 340.36 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f7d40442-090c-4092-ba78-0e3340f60902")
+	)
+	(wire
+		(pts
+			(xy 382.27 241.3) (xy 388.62 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7e9b97e-6ac4-472f-aac4-2312f17131a9")
+	)
+	(wire
+		(pts
+			(xy 443.23 241.3) (xy 443.23 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f82227ca-5bcb-43e0-ba92-cf7621d6514f")
+	)
+	(wire
+		(pts
+			(xy 313.69 265.43) (xy 341.63 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd3466f6-3de2-4970-8e1a-d579a689df1d")
+	)
+	(wire
+		(pts
+			(xy 274.32 241.3) (xy 274.32 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdbf5287-e0db-430e-a984-54207c0fe6db")
+	)
+	(rectangle
+		(start 372.11 154.94)
+		(end 487.68 278.13)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 6a5d90be-ffda-4591-953e-7cd83801c430)
+	)
+	(rectangle
+		(start 372.11 21.59)
+		(end 487.68 144.78)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d6871b82-c617-458b-bc35-639fd502b503)
+	)
+	(rectangle
+		(start 242.57 154.94)
+		(end 358.14 278.13)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f09e0c76-b75f-41a3-8d98-c46e3fe4703d)
+	)
+	(rectangle
+		(start 242.57 21.59)
+		(end 358.14 144.78)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f80c891a-bb87-4b29-9420-cfec582eed85)
+	)
+	(text "Right Emitter"
+		(exclude_from_sim no)
+		(at 330.454 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "45b8ba00-18e9-4ce8-88c5-69568acccf5b")
+	)
+	(text "Front Right Receiver"
+		(exclude_from_sim no)
+		(at 409.194 34.036 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a2ec4579-f818-4c4d-a7a3-259a6c4852bb")
+	)
+	(text "Front Left Receiver"
+		(exclude_from_sim no)
+		(at 409.194 167.386 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c44d704a-c8eb-4972-a997-cc6c689d67c8")
+	)
+	(text "Front Right Emitter"
+		(exclude_from_sim no)
+		(at 459.994 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c66361d7-890c-425c-ad57-741803486964")
+	)
+	(text "Left Receiver"
+		(exclude_from_sim no)
+		(at 279.654 167.386 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c83fae60-f88a-4b9c-99aa-f1d651c19769")
+	)
+	(text "Left Emitter"
+		(exclude_from_sim no)
+		(at 330.454 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dc08be87-a4de-4785-8dda-4e4acbc3fc0f")
+	)
+	(text "Right Receiver"
+		(exclude_from_sim no)
+		(at 279.654 34.036 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e1fadfd1-d5be-42f8-aa82-3968e8d54cd7")
+	)
+	(text "Front Left Emitter"
+		(exclude_from_sim no)
+		(at 459.994 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e3ad9217-16e6-4ea1-9227-fed020024c99")
 	)
 	(global_label "GND"
 		(shape input)
@@ -6503,9 +7531,9 @@
 			)
 		)
 	)
-	(global_label "3V3"
+	(global_label "PC5"
 		(shape input)
-		(at 186.69 50.8 90)
+		(at 261.62 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6513,9 +7541,97 @@
 			)
 			(justify left)
 		)
-		(uuid "22f904b1-aef6-49d7-ad92-bd0c3ca8808f")
+		(uuid "04df87ed-3198-42a2-862d-0195ff0e6deb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.69 44.3072 90)
+			(at 268.3547 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 261.62 215.9 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0c204805-169a-4911-9e63-d134b28305a9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 261.62 222.7557 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 441.96 52.07 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "11f6f62f-b46a-47d7-aa05-0e5f2d8d37ce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 441.96 45.5772 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC9"
+		(shape input)
+		(at 382.27 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "15a1e5af-55a3-4eca-973c-63e009903e06")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 375.5353 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC5"
+		(shape input)
+		(at 391.16 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "214ac141-71a4-4aaf-8c28-722dfb5ef2d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 397.8947 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6527,7 +7643,29 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 237.49 72.39 90)
+		(at 261.62 30.48 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22f904b1-aef6-49d7-ad92-bd0c3ca8808f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 261.62 23.9872 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 312.42 52.07 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6537,7 +7675,7 @@
 		)
 		(uuid "2517e81a-1603-4a3c-a425-6a799ddf43c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 237.49 65.8972 90)
+			(at 312.42 45.5772 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6565,6 +7703,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 391.16 215.9 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "27396e4d-dfca-47a9-aa15-204e59e01baa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 391.16 222.7557 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -6613,6 +7773,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 443.23 267.97 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2feaa32a-bda1-4851-af49-1156422b4fbc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 443.23 274.8257 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PB7"
 		(shape input)
 		(at 74.93 46.99 180)
@@ -6631,6 +7813,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 441.96 185.42 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3fb53931-cea8-4f82-86b4-b2e940f10c2c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 441.96 178.9272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 312.42 185.42 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a05d738-abb8-4b8f-8589-35c84157d3bb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 312.42 178.9272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6681,6 +7907,28 @@
 	)
 	(global_label "3V3"
 		(shape input)
+		(at 261.62 163.83 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "509b7081-9b76-430d-bc74-d10c350eb56d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 261.62 157.3372 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
 		(at 53.34 81.28 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6692,6 +7940,28 @@
 		(uuid "5179b159-46d5-4e84-8368-6ddbae123811")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 59.8328 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC5"
+		(shape input)
+		(at 391.16 187.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5224dc52-d015-43ca-b0ec-b23bc3464018")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 397.8947 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6747,7 +8017,7 @@
 	)
 	(global_label "PC5"
 		(shape input)
-		(at 186.69 74.93 0)
+		(at 261.62 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6757,7 +8027,29 @@
 		)
 		(uuid "6699684f-d52d-4611-8a49-0279741eda42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.4247 74.93 0)
+			(at 268.3547 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 391.16 30.48 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6ccf78e3-cbc3-46d3-b93e-5ac681e47a72")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 391.16 23.9872 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6811,6 +8103,28 @@
 			)
 		)
 	)
+	(global_label "PC9"
+		(shape input)
+		(at 252.73 241.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "74e73326-d371-4707-b552-7017f2da4411")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 245.9953 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MGND"
 		(shape input)
 		(at 38.1 57.15 180)
@@ -6857,7 +8171,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 238.76 154.94 270)
+		(at 313.69 134.62 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6867,7 +8181,7 @@
 		)
 		(uuid "8185cab6-987b-446e-8750-cf8c0afe2f91")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 161.7957 90)
+			(at 313.69 141.4757 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6965,6 +8279,28 @@
 			)
 		)
 	)
+	(global_label "PC9"
+		(shape input)
+		(at 382.27 241.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a6dd6d10-6b08-4e99-a021-f6ac39ff25c9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 375.5353 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PA8"
 		(shape input)
 		(at 45.72 78.74 0)
@@ -6989,7 +8325,29 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 186.69 102.87 270)
+		(at 443.23 134.62 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "acffd587-4b8b-4ce1-baf3-8c09be5b043f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 443.23 141.4757 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 261.62 82.55 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6999,7 +8357,29 @@
 		)
 		(uuid "af22f05c-f79a-48a5-beca-227aedef9c07")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.69 109.7257 90)
+			(at 261.62 89.4057 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 391.16 82.55 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b3d96178-ef05-4d87-adc2-929e755f366a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 391.16 89.4057 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7049,6 +8429,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 313.69 267.97 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d0225c54-6b5e-41c9-b165-71dae5495168")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 313.69 274.8257 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7119,6 +8521,28 @@
 			)
 		)
 	)
+	(global_label "3V3"
+		(shape input)
+		(at 391.16 163.83 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f579dd96-39e8-4e7d-9861-4c9996953ef9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 391.16 157.3372 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 88.9 73.66 0)
@@ -7143,7 +8567,7 @@
 	)
 	(global_label "PC9"
 		(shape input)
-		(at 177.8 128.27 180)
+		(at 252.73 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7153,7 +8577,7 @@
 		)
 		(uuid "fd597dcd-6a30-4c37-a5ba-decfc6b0850e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.0653 128.27 0)
+			(at 245.9953 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7164,33 +8588,205 @@
 		)
 	)
 	(symbol
-		(lib_id "Mosfet:2N7002LT1G")
-		(at 196.85 128.27 0)
+		(lib_id "IR-Emitter:SFH_4545")
+		(at 441.96 223.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "162f0652-3ce2-41fc-b2da-7e933501607a")
-		(property "Reference" "U3"
-			(at 217.17 118.11 0)
+		(uuid "02acbd0a-62e9-4096-9b52-d4d0f0a38026")
+		(property "Reference" "D4"
+			(at 447.04 221.0186 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IR Emitter"
+			(at 447.04 223.5586 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "micromouse5:DIO_SFH_4545 (IR- Emitter)"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "475-SFH4545-ND"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204545/OSRAM/view-part/?ref=snap"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Infrared (IR) Emitter 950nm 1.5V 100mA 550mW/sr @ 100mA 10° Radial\n                        \n"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204545/OSRAM/view-part/?ref=eda"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.5"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "OSRAM Opto"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4545"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 441.96 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "C"
+			(uuid "d14e2d79-f1f1-4175-a21c-c9e9cded0a1a")
+		)
+		(pin "A"
+			(uuid "22e10404-9028-4e62-ab15-c5fe0ed92b44")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Capacitor-4.7uF:GCJ21BR72A104KA01L")
+		(at 337.82 226.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "03f62a9e-57f0-4635-9ac8-2d4605670579")
+		(property "Reference" "C11"
+			(at 330.2 220.98 90)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "MOSFET"
-			(at 217.17 120.65 0)
+		(property "Value" "4.7 uF"
+			(at 327.66 223.52 90)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "micromouse5:SOT-23_3L_ONS (mosfet)"
-			(at 196.85 128.27 0)
+		(property "Footprint" "micromouse5:CAP_GRM0805_2X1P25_MUR"
+			(at 337.82 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7199,8 +8795,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "2N7002LT1G"
-			(at 196.85 128.27 0)
+		(property "Datasheet" "GCJ21BR72A104KA01L"
+			(at 337.82 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7210,7 +8806,221 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 128.27 0)
+			(at 337.82 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f256b0c-ea86-4f02-883d-15b1bafce21a")
+		)
+		(pin "2"
+			(uuid "0975dd1f-3799-49d6-b97b-baa9b15c3dac")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRM0805-FX-51R0ELF (51 ohm):CRM0805-FX-51R0ELF")
+		(at 441.96 210.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "07ff6041-f0ed-4d2c-881b-2af40efbe998")
+		(property "Reference" "R16"
+			(at 444.5 203.1999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "51 Ohm"
+			(at 444.5 205.7399 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:BO_CR0805(51 ohm)"
+			(at 441.96 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "CRM0805-FX-51R0ELF"
+			(at 441.96 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 441.96 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7c945aeb-31a7-4cc2-9686-9d3d35867395")
+		)
+		(pin "1"
+			(uuid "8963b726-5193-43b1-a819-61fa756833b8")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Capacitor-0.1uF:GRM21BR71C475KE51L")
+		(at 474.98 226.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c430612-3b58-42fd-9802-9d9f881bf378")
+		(property "Reference" "C14"
+			(at 478.79 220.9799 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 478.79 223.5199 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:G-21_MUR(0.1)"
+			(at 474.98 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "GRM21BR71C475KE51L"
+			(at 474.98 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 474.98 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "89d1eed5-4e3d-403d-9473-ac2258db9dd4")
+		)
+		(pin "1"
+			(uuid "84bf725a-0253-4232-aa57-a9885de53d05")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mosfet:2N7002LT1G")
+		(at 271.78 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "162f0652-3ce2-41fc-b2da-7e933501607a")
+		(property "Reference" "U3"
+			(at 292.1 97.79 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MOSFET"
+			(at 292.1 100.33 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "micromouse5:SOT-23_3L_ONS (mosfet)"
+			(at 271.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "2N7002LT1G"
+			(at 271.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 271.78 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7231,6 +9041,147 @@
 			(project ""
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistor- 1.8kohm:RK73H2ATTD1801F")
+		(at 391.16 199.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2baa2490-aa19-475f-858f-177e8bc15e98")
+		(property "Reference" "R14"
+			(at 394.97 198.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1.8kOhm"
+			(at 394.97 200.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:RESC2012X60N (1.8kΩ)"
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2019-RK73H2ATTD1801FTR-ND"
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ATTD1801F/KOA+Speer/view-part/?ref=snap"
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            1.8 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KOA Speer"
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "805 KOA"
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ATTD1801F/KOA+Speer/view-part/?ref=eda"
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RK73H2ATTD1801F"
+			(at 391.16 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f42aae75-bcde-44ad-ab0a-295b41d8b469")
+		)
+		(pin "2"
+			(uuid "66be3a14-9377-4f03-8bcf-6b038261a0d7")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -7303,35 +9254,204 @@
 		)
 	)
 	(symbol
-		(lib_id "CRM0805-FX-51R0ELF (51 ohm):CRM0805-FX-51R0ELF")
-		(at 237.49 97.79 90)
+		(lib_id "IR-Emitter:SFH_4545")
+		(at 312.42 223.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "314b5f95-7c02-4a62-bc1e-65be97f486af")
-		(property "Reference" "R1"
-			(at 240.03 90.1699 90)
+		(uuid "2fad4ccc-2b78-432d-90f9-16313f67eeeb")
+		(property "Reference" "D3"
+			(at 317.5 221.0186 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IR Emitter"
+			(at 317.5 223.5586 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "micromouse5:DIO_SFH_4545 (IR- Emitter)"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "475-SFH4545-ND"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204545/OSRAM/view-part/?ref=snap"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Infrared (IR) Emitter 950nm 1.5V 100mA 550mW/sr @ 100mA 10° Radial\n                        \n"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204545/OSRAM/view-part/?ref=eda"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.5"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "OSRAM Opto"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4545"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 312.42 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "C"
+			(uuid "480b122b-295d-45d1-b0fe-f80e1796c8b8")
+		)
+		(pin "A"
+			(uuid "1eead136-b302-42aa-8d8f-381cfad75734")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mosfet:2N7002LT1G")
+		(at 401.32 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3040cc4e-3b18-44cf-b9c7-4e45c5260cc9")
+		(property "Reference" "U4"
+			(at 421.64 97.79 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "51 Ohm"
-			(at 240.03 92.7099 90)
+		(property "Value" "MOSFET"
+			(at 421.64 100.33 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "micromouse5:BO_CR0805(51 ohm)"
-			(at 237.49 97.79 0)
+		(property "Footprint" "micromouse5:SOT-23_3L_ONS (mosfet)"
+			(at 401.32 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7340,8 +9460,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "CRM0805-FX-51R0ELF"
-			(at 237.49 97.79 0)
+		(property "Datasheet" "2N7002LT1G"
+			(at 401.32 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7351,7 +9471,82 @@
 			)
 		)
 		(property "Description" ""
-			(at 237.49 97.79 0)
+			(at 401.32 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b083c599-38b6-43b1-9dc5-6f802edf157e")
+		)
+		(pin "2"
+			(uuid "b803cb2e-a8c9-42a2-913e-7ac620aaf8c4")
+		)
+		(pin "1"
+			(uuid "2acf0875-285b-49ac-b1ec-cc49887a1e7b")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRM0805-FX-51R0ELF (51 ohm):CRM0805-FX-51R0ELF")
+		(at 312.42 77.47 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "314b5f95-7c02-4a62-bc1e-65be97f486af")
+		(property "Reference" "R1"
+			(at 314.96 69.8499 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "51 Ohm"
+			(at 314.96 72.3899 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:BO_CR0805(51 ohm)"
+			(at 312.42 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "CRM0805-FX-51R0ELF"
+			(at 312.42 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 312.42 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7376,7 +9571,7 @@
 	)
 	(symbol
 		(lib_id "IR-Emitter:SFH_4545")
-		(at 237.49 110.49 270)
+		(at 312.42 90.17 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7385,7 +9580,7 @@
 		(fields_autoplaced yes)
 		(uuid "35b69a56-ba04-4dfa-a34e-0721f596c753")
 		(property "Reference" "D1"
-			(at 242.57 107.9886 90)
+			(at 317.5 87.6686 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7394,7 +9589,7 @@
 			)
 		)
 		(property "Value" "IR Emitter"
-			(at 242.57 110.5286 90)
+			(at 317.5 90.2086 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7403,7 +9598,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:DIO_SFH_4545 (IR- Emitter)"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7413,7 +9608,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7422,7 +9617,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7431,7 +9626,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "475-SFH4545-ND"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7441,7 +9636,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204545/OSRAM/view-part/?ref=snap"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7451,7 +9646,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            Infrared (IR) Emitter 950nm 1.5V 100mA 550mW/sr @ 100mA 10° Radial\n                        \n"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7461,7 +9656,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7471,7 +9666,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204545/OSRAM/view-part/?ref=eda"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7481,7 +9676,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7491,7 +9686,7 @@
 			)
 		)
 		(property "PARTREV" "1.5"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7501,7 +9696,7 @@
 			)
 		)
 		(property "MF" "OSRAM Opto"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7511,7 +9706,7 @@
 			)
 		)
 		(property "MP" "SFH 4545"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7521,7 +9716,7 @@
 			)
 		)
 		(property "MANUFACTURER" "OSRAM"
-			(at 237.49 110.49 0)
+			(at 312.42 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8038,7 +10233,7 @@
 	)
 	(symbol
 		(lib_id "Capacitor-0.1uF:GRM21BR71C475KE51L")
-		(at 270.51 113.03 90)
+		(at 345.44 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8047,7 +10242,7 @@
 		(fields_autoplaced yes)
 		(uuid "409616bd-76e6-4b32-b5bc-ae363c9dd8d9")
 		(property "Reference" "C8"
-			(at 274.32 107.9499 90)
+			(at 349.25 87.6299 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8056,7 +10251,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 274.32 110.4899 90)
+			(at 349.25 90.1699 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8065,7 +10260,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:G-21_MUR(0.1)"
-			(at 270.51 113.03 0)
+			(at 345.44 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8075,7 +10270,7 @@
 			)
 		)
 		(property "Datasheet" "GRM21BR71C475KE51L"
-			(at 270.51 113.03 0)
+			(at 345.44 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8085,7 +10280,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 113.03 0)
+			(at 345.44 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8175,6 +10370,288 @@
 			(project "micromouse5"
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistor- 1.8kohm:RK73H2ATTD1801F")
+		(at 391.16 66.04 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "43779f6e-bda9-4b85-a9f2-60504d185c5c")
+		(property "Reference" "R6"
+			(at 394.97 64.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1.8kOhm"
+			(at 394.97 67.3099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:RESC2012X60N (1.8kΩ)"
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2019-RK73H2ATTD1801FTR-ND"
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ATTD1801F/KOA+Speer/view-part/?ref=snap"
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            1.8 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KOA Speer"
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "805 KOA"
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ATTD1801F/KOA+Speer/view-part/?ref=eda"
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RK73H2ATTD1801F"
+			(at 391.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a274e87-81d3-4d62-af4c-724dc8c3e755")
+		)
+		(pin "2"
+			(uuid "94d161f9-e2c0-426e-b1db-7fedf73f0daa")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistor- 47kohm:RK73H2ARTTD4702F")
+		(at 403.86 255.27 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4681e109-b9b3-4dae-af11-54bf603dc277")
+		(property "Reference" "R15"
+			(at 407.67 253.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47 kOhm"
+			(at 407.67 256.5399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:RESC2012X60N (47kΩ)"
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2019-RK73H2ARTTD4702FTR-ND"
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=snap"
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            47 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KOA Speer"
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "805 KOA"
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=eda"
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RK73H2ARTTD4702F"
+			(at 403.86 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "90c2efff-9c5b-486d-a3f9-9bc683b44829")
+		)
+		(pin "1"
+			(uuid "65885e91-4033-4fa3-a85d-500ad7b3f5ee")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -8318,33 +10795,35 @@
 		)
 	)
 	(symbol
-		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
-		(at 184.15 128.27 0)
+		(lib_id "IR-Receiver:LTR-4206E")
+		(at 391.16 189.23 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "552e15d0-39ca-412a-be13-f5085aba9a4c")
-		(property "Reference" "R2"
-			(at 190.5 121.92 0)
+		(uuid "541dd7af-6eb5-4d3b-99c9-4069ba9a1bc8")
+		(property "Reference" "Q4"
+			(at 394.97 175.2599 90)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "100 Ohm"
-			(at 190.5 124.46 0)
+		(property "Value" "IR Receiver"
+			(at 394.97 177.7999 90)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
-			(at 184.15 128.27 0)
+		(property "Footprint" "micromouse5:NoneP157X157-2_LTO (IR- Receiver)"
+			(at 391.16 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8353,8 +10832,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "RNCP0805FTD100R"
-			(at 184.15 128.27 0)
+		(property "Datasheet" "LTR-4206E"
+			(at 391.16 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8364,7 +10843,77 @@
 			)
 		)
 		(property "Description" ""
-			(at 184.15 128.27 0)
+			(at 391.16 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c6b60d84-1e00-4e47-a51c-4decb9eb36f5")
+		)
+		(pin "2"
+			(uuid "6bae4db7-4702-4b9f-9cf0-7332cf6e0173")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
+		(at 259.08 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "552e15d0-39ca-412a-be13-f5085aba9a4c")
+		(property "Reference" "R2"
+			(at 265.43 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "100 Ohm"
+			(at 265.43 104.14 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
+			(at 259.08 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RNCP0805FTD100R"
+			(at 259.08 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8382,6 +10931,150 @@
 			(project ""
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRM0805-FX-51R0ELF (51 ohm):CRM0805-FX-51R0ELF")
+		(at 312.42 210.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55ee5238-11a8-4e03-9d85-d120431c3c6e")
+		(property "Reference" "R12"
+			(at 314.96 203.1999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "51 Ohm"
+			(at 314.96 205.7399 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:BO_CR0805(51 ohm)"
+			(at 312.42 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "CRM0805-FX-51R0ELF"
+			(at 312.42 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 312.42 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "80332632-7933-4a9e-841a-28cefba96251")
+		)
+		(pin "1"
+			(uuid "64f924a8-0535-4dfd-8adc-129e10443733")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Capacitor-0.1uF:GRM21BR71C475KE51L")
+		(at 345.44 226.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d5fbb82-2663-48d6-820d-a2346aa82d6f")
+		(property "Reference" "C12"
+			(at 349.25 220.9799 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 349.25 223.5199 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:G-21_MUR(0.1)"
+			(at 345.44 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "GRM21BR71C475KE51L"
+			(at 345.44 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 345.44 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d9c6d604-5ccc-41a2-95bb-5f6b45690499")
+		)
+		(pin "1"
+			(uuid "95be3c7d-7e93-4a07-b072-6400c6e86615")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -8453,6 +11146,147 @@
 			(project "micromouse5"
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistor- 47kohm:RK73H2ARTTD4702F")
+		(at 403.86 121.92 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "685b6605-aa9b-4c05-afe0-808b6540a25f")
+		(property "Reference" "R7"
+			(at 407.67 120.6499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47 kOhm"
+			(at 407.67 123.1899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:RESC2012X60N (47kΩ)"
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2019-RK73H2ARTTD4702FTR-ND"
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=snap"
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            47 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KOA Speer"
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "805 KOA"
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=eda"
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RK73H2ARTTD4702F"
+			(at 403.86 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a7121504-9ea1-45c1-b415-502bfb86ac42")
+		)
+		(pin "1"
+			(uuid "168460d8-ad78-44db-b00a-d56a6975f4d4")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -8688,6 +11522,290 @@
 		)
 	)
 	(symbol
+		(lib_id "Resistor- 47kohm:RK73H2ARTTD4702F")
+		(at 274.32 255.27 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7da5f9b5-51b9-40b8-9522-36846d6aa781")
+		(property "Reference" "R11"
+			(at 278.13 253.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "47 kOhm"
+			(at 278.13 256.5399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:RESC2012X60N (47kΩ)"
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2019-RK73H2ARTTD4702FTR-ND"
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=snap"
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            47 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KOA Speer"
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "805 KOA"
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=eda"
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RK73H2ARTTD4702F"
+			(at 274.32 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7ef62d92-0edc-4608-80d9-07644bee35dd")
+		)
+		(pin "1"
+			(uuid "ce2facef-57a5-4b3f-b935-724ba167088b")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IR-Receiver:LTR-4206E")
+		(at 391.16 55.88 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "80f04b8a-e159-42ba-a6b3-9ad73f1429b4")
+		(property "Reference" "Q2"
+			(at 394.97 41.9099 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "IR Receiver"
+			(at 394.97 44.4499 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:NoneP157X157-2_LTO (IR- Receiver)"
+			(at 391.16 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "LTR-4206E"
+			(at 391.16 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 391.16 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "844e99b7-8368-4066-a5cc-433b8f952e38")
+		)
+		(pin "2"
+			(uuid "950b730e-7636-48f5-919c-b6d6c120836c")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Capacitor-4.7uF:GCJ21BR72A104KA01L")
+		(at 467.36 226.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82f0d86e-9f85-4a2d-8d8b-6a72de13dd5c")
+		(property "Reference" "C13"
+			(at 459.74 220.98 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.7 uF"
+			(at 457.2 223.52 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:CAP_GRM0805_2X1P25_MUR"
+			(at 467.36 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "GCJ21BR72A104KA01L"
+			(at 467.36 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 467.36 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f853f419-0354-42c5-a9ef-846b2dc5423d")
+		)
+		(pin "2"
+			(uuid "94bde4bd-48e4-4f9a-af63-48a5f21def63")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "L293DD:L293DD")
 		(at 87.63 26.67 0)
 		(unit 1)
@@ -8879,7 +11997,7 @@
 	)
 	(symbol
 		(lib_id "Resistor- 47kohm:RK73H2ARTTD4702F")
-		(at 199.39 142.24 90)
+		(at 274.32 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8888,7 +12006,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e0c3f9f-0795-41b4-bbc7-3a387201ead9")
 		(property "Reference" "R3"
-			(at 203.2 140.9699 90)
+			(at 278.13 120.6499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8897,7 +12015,7 @@
 			)
 		)
 		(property "Value" "47 kOhm"
-			(at 203.2 143.5099 90)
+			(at 278.13 123.1899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8906,7 +12024,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:RESC2012X60N (47kΩ)"
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8916,7 +12034,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8925,7 +12043,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8934,7 +12052,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "2019-RK73H2ARTTD4702FTR-ND"
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8944,7 +12062,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=snap"
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8954,7 +12072,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            47 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8964,7 +12082,7 @@
 			)
 		)
 		(property "MF" "KOA Speer"
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8974,7 +12092,7 @@
 			)
 		)
 		(property "Package" "805 KOA"
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8984,7 +12102,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=eda"
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8994,7 +12112,7 @@
 			)
 		)
 		(property "MP" "RK73H2ARTTD4702F"
-			(at 199.39 142.24 0)
+			(at 274.32 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9019,17 +12137,17 @@
 		)
 	)
 	(symbol
-		(lib_id "IR-Receiver:LTR-4206E")
-		(at 186.69 76.2 90)
+		(lib_id "Capacitor-0.1uF:GRM21BR71C475KE51L")
+		(at 474.98 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "90f8a34e-fdd3-4ebc-9b09-e82e07ad688e")
-		(property "Reference" "Q1"
-			(at 190.5 62.2299 90)
+		(uuid "8eb75dac-35c0-4b47-8d58-d99a5b7d3c1a")
+		(property "Reference" "C10"
+			(at 478.79 87.6299 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9037,8 +12155,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "IR Receiver"
-			(at 190.5 64.7699 90)
+		(property "Value" "0.1uF"
+			(at 478.79 90.1699 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9046,8 +12164,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "micromouse5:NoneP157X157-2_LTO (IR- Receiver)"
-			(at 186.69 76.2 0)
+		(property "Footprint" "micromouse5:G-21_MUR(0.1)"
+			(at 474.98 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9056,8 +12174,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "LTR-4206E"
-			(at 186.69 76.2 0)
+		(property "Datasheet" "GRM21BR71C475KE51L"
+			(at 474.98 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9067,7 +12185,79 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 76.2 0)
+			(at 474.98 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b6236409-2b3d-4053-bdcf-8ec350428533")
+		)
+		(pin "1"
+			(uuid "517c028e-4b84-451e-bb8b-bed571d282d7")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IR-Receiver:LTR-4206E")
+		(at 261.62 55.88 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90f8a34e-fdd3-4ebc-9b09-e82e07ad688e")
+		(property "Reference" "Q1"
+			(at 265.43 41.9099 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "IR Receiver"
+			(at 265.43 44.4499 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:NoneP157X157-2_LTO (IR- Receiver)"
+			(at 261.62 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "LTR-4206E"
+			(at 261.62 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 261.62 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9091,8 +12281,154 @@
 		)
 	)
 	(symbol
+		(lib_id "Mosfet:2N7002LT1G")
+		(at 401.32 241.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "977a6a7c-8247-4e1c-bedf-53c7320d4dd4")
+		(property "Reference" "U6"
+			(at 421.64 231.14 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MOSFET"
+			(at 421.64 233.68 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "micromouse5:SOT-23_3L_ONS (mosfet)"
+			(at 401.32 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "2N7002LT1G"
+			(at 401.32 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 401.32 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "7c13c47a-f64a-4bf2-b056-50ccd2e2c329")
+		)
+		(pin "2"
+			(uuid "ab4edb76-f9b6-40f4-92d2-f9fd6afaed1c")
+		)
+		(pin "1"
+			(uuid "e884e56f-fcf4-4360-87c5-99a769ced001")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mosfet:2N7002LT1G")
+		(at 271.78 241.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1ea104f-d609-4c32-b8fc-a9c132df6e07")
+		(property "Reference" "U5"
+			(at 292.1 231.14 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "MOSFET"
+			(at 292.1 233.68 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "micromouse5:SOT-23_3L_ONS (mosfet)"
+			(at 271.78 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "2N7002LT1G"
+			(at 271.78 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 271.78 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "11d64468-f71c-4da9-9319-483b71c9cc30")
+		)
+		(pin "2"
+			(uuid "28870686-696a-4843-b680-c3491dd1ec3a")
+		)
+		(pin "1"
+			(uuid "e945bd6d-5c56-48db-8a53-f8905e3f31e2")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Resistor- 1.8kohm:RK73H2ATTD1801F")
-		(at 186.69 86.36 90)
+		(at 261.62 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9101,7 +12437,7 @@
 		(fields_autoplaced yes)
 		(uuid "a52db313-599c-4fe0-8931-0aae78a972b9")
 		(property "Reference" "R4"
-			(at 190.5 85.0899 90)
+			(at 265.43 64.7699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9110,7 +12446,7 @@
 			)
 		)
 		(property "Value" "1.8kOhm"
-			(at 190.5 87.6299 90)
+			(at 265.43 67.3099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9119,7 +12455,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:RESC2012X60N (1.8kΩ)"
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9129,7 +12465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9138,7 +12474,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9147,7 +12483,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "2019-RK73H2ATTD1801FTR-ND"
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9157,7 +12493,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ATTD1801F/KOA+Speer/view-part/?ref=snap"
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9167,7 +12503,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            1.8 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9177,7 +12513,7 @@
 			)
 		)
 		(property "MF" "KOA Speer"
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9187,7 +12523,7 @@
 			)
 		)
 		(property "Package" "805 KOA"
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9197,7 +12533,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ATTD1801F/KOA+Speer/view-part/?ref=eda"
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9207,7 +12543,7 @@
 			)
 		)
 		(property "MP" "RK73H2ATTD1801F"
-			(at 186.69 86.36 0)
+			(at 261.62 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9226,6 +12562,388 @@
 			(project ""
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IR-Emitter:SFH_4545")
+		(at 441.96 90.17 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa8db3d6-15f9-44c9-a49b-8bc4758ece0a")
+		(property "Reference" "D2"
+			(at 447.04 87.6686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IR Emitter"
+			(at 447.04 90.2086 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "micromouse5:DIO_SFH_4545 (IR- Emitter)"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "475-SFH4545-ND"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204545/OSRAM/view-part/?ref=snap"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            Infrared (IR) Emitter 950nm 1.5V 100mA 550mW/sr @ 100mA 10° Radial\n                        \n"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204545/OSRAM/view-part/?ref=eda"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.5"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "OSRAM Opto"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4545"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 441.96 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "C"
+			(uuid "ed01b31f-c18b-4347-a59c-bef45a7b208d")
+		)
+		(pin "A"
+			(uuid "ab8bd98a-27b1-45ea-a0a3-93200b4bc2f1")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
+		(at 388.62 241.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad39cabf-4b1a-404a-8267-4f88f38d172e")
+		(property "Reference" "R13"
+			(at 394.97 234.95 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "100 Ohm"
+			(at 394.97 237.49 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
+			(at 388.62 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RNCP0805FTD100R"
+			(at 388.62 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 388.62 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f65c5ac3-48d6-44f4-9c52-f4a25748a7be")
+		)
+		(pin "2"
+			(uuid "c670a735-b65f-429b-87b7-2d53f93738c5")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistor- 1.8kohm:RK73H2ATTD1801F")
+		(at 261.62 199.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b2f9d4e1-304e-471c-a7f1-a826b0f57d82")
+		(property "Reference" "R10"
+			(at 265.43 198.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1.8kOhm"
+			(at 265.43 200.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:RESC2012X60N (1.8kΩ)"
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2019-RK73H2ATTD1801FTR-ND"
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ATTD1801F/KOA+Speer/view-part/?ref=snap"
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            1.8 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KOA Speer"
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "805 KOA"
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ATTD1801F/KOA+Speer/view-part/?ref=eda"
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RK73H2ATTD1801F"
+			(at 261.62 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "94392dd3-0718-44b8-81e9-fdd7dea79396")
+		)
+		(pin "2"
+			(uuid "ae4e7a7a-68cb-4ae6-93cf-a8842b770e97")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -9298,6 +13016,147 @@
 			(project "micromouse5"
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Capacitor-4.7uF:GCJ21BR72A104KA01L")
+		(at 467.36 92.71 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bb88e6bb-9b92-41b0-a2af-07eb399cb576")
+		(property "Reference" "C9"
+			(at 459.74 87.63 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.7 uF"
+			(at 457.2 90.17 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:CAP_GRM0805_2X1P25_MUR"
+			(at 467.36 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "GCJ21BR72A104KA01L"
+			(at 467.36 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 467.36 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "41eaa8ae-a112-4658-a9dc-7960a5695f62")
+		)
+		(pin "2"
+			(uuid "59d7d5fc-70b3-4cce-ad1a-50af6e48f75f")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
+		(at 388.62 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c3133ac1-31bf-4ff0-93db-67c5dfb55076")
+		(property "Reference" "R5"
+			(at 394.97 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "100 Ohm"
+			(at 394.97 104.14 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
+			(at 388.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RNCP0805FTD100R"
+			(at 388.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 388.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ad13913f-77fb-426a-8d1e-396c4f62dfe7")
+		)
+		(pin "2"
+			(uuid "9ccd664d-cde2-4549-a16c-e3114390106b")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -9441,6 +13300,76 @@
 		)
 	)
 	(symbol
+		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
+		(at 259.08 241.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d89848df-ea59-4a71-8255-be39dd687161")
+		(property "Reference" "R9"
+			(at 265.43 234.95 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "100 Ohm"
+			(at 265.43 237.49 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
+			(at 259.08 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RNCP0805FTD100R"
+			(at 259.08 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cadb9eb6-4c1b-4e4e-b1f0-77206d2cf857")
+		)
+		(pin "2"
+			(uuid "2ca4f74c-9eb6-4255-beb5-0f70509a12ce")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 205.74 26.67 270)
 		(unit 1)
@@ -9502,6 +13431,78 @@
 			(project "micromouse5"
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CRM0805-FX-51R0ELF (51 ohm):CRM0805-FX-51R0ELF")
+		(at 441.96 77.47 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3fc6346-8db5-4fcb-aad0-20c633ac2b41")
+		(property "Reference" "R8"
+			(at 444.5 69.8499 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "51 Ohm"
+			(at 444.5 72.3899 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:BO_CR0805(51 ohm)"
+			(at 441.96 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "CRM0805-FX-51R0ELF"
+			(at 441.96 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 441.96 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f221f2e1-489f-4806-b72e-456c448d9b0d")
+		)
+		(pin "1"
+			(uuid "8f1f9a75-0364-4222-9a88-34ff008f6880")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -9576,7 +13577,7 @@
 	)
 	(symbol
 		(lib_id "Capacitor-4.7uF:GCJ21BR72A104KA01L")
-		(at 262.89 113.03 90)
+		(at 337.82 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9584,7 +13585,7 @@
 		(dnp no)
 		(uuid "f848ec47-a029-4142-8987-c74ed2222969")
 		(property "Reference" "C7"
-			(at 255.27 107.95 90)
+			(at 330.2 87.63 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9593,7 +13594,7 @@
 			)
 		)
 		(property "Value" "4.7 uF"
-			(at 252.73 110.49 90)
+			(at 327.66 90.17 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9602,7 +13603,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:CAP_GRM0805_2X1P25_MUR"
-			(at 262.89 113.03 0)
+			(at 337.82 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9612,7 +13613,7 @@
 			)
 		)
 		(property "Datasheet" "GCJ21BR72A104KA01L"
-			(at 262.89 113.03 0)
+			(at 337.82 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9622,7 +13623,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 262.89 113.03 0)
+			(at 337.82 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9640,6 +13641,78 @@
 			(project ""
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "IR-Receiver:LTR-4206E")
+		(at 261.62 189.23 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa4da144-cc02-491c-9866-3f5460fc6957")
+		(property "Reference" "Q3"
+			(at 265.43 175.2599 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "IR Receiver"
+			(at 265.43 177.7999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "micromouse5:NoneP157X157-2_LTO (IR- Receiver)"
+			(at 261.62 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "LTR-4206E"
+			(at 261.62 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 261.62 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6fde8ee0-ee21-4b0b-af00-1afd45c744c5")
+		)
+		(pin "2"
+			(uuid "c039f004-94ad-43fc-b140-e3484152d2d0")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "Q3")
 					(unit 1)
 				)
 			)
