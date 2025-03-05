@@ -1,18 +1,4 @@
-24276392847180137
-ARDUINO_MKR_WAN_1310
-BOARD_ARDUINO_MKR_WAN_1310
-
-
-0
-28
-28
-AZ1117IH-3.3TRG1
-SOT230P700X185-4N
-
-
-0
-4
-4
+24250422468326137
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -27,13 +13,6 @@ audio belton reverb
 0
 7
 7
-B2B_PH_K_S
-CONN2_B2B-PH-K-S_JST
-
-B2B-PH-K-S 
-0
-2
-2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2589,27 +2568,6 @@ speaker CUI
 0
 2
 2
-CRM0805-FX-51R0ELF (51 ohm)
-BO_CR0805
-
-CRM0805-FX-51R0ELF 
-0
-2
-2
-CRM0805-FX-51R0ELF (51 ohm)
-BO_CR0805-L
-
-CRM0805-FX-51R0ELF 
-0
-2
-2
-CRM0805-FX-51R0ELF (51 ohm)
-BO_CR0805-M
-
-CRM0805-FX-51R0ELF 
-0
-2
-2
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -2743,6 +2701,27 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
+Capacitor-0.1uF
+CAP_GRM0805_2X1P25_MUR
+
+GRM21BR71C475KE51L 
+0
+2
+2
+Capacitor-0.1uF
+CAP_GRM0805_2X1P25_MUR-L
+
+GRM21BR71C475KE51L 
+0
+2
+2
+Capacitor-0.1uF
+CAP_GRM0805_2X1P25_MUR-M
+
+GRM21BR71C475KE51L 
+0
+2
+2
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -57861,118 +57840,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-GCJ21BR72A104KA01L (0.1)
-G-21_MUR
-
-GCJ21BR72A104KA01L 
-0
-2
-2
-GCJ21BR72A104KA01L (0.1)
-G-21_MUR-L
-
-GCJ21BR72A104KA01L 
-0
-2
-2
-GCJ21BR72A104KA01L (0.1)
-G-21_MUR-M
-
-GCJ21BR72A104KA01L 
-0
-2
-2
-GCM21BR71C225KA64L(2.2)
-G-21_MUR (10k)
-
-GCM21BR71C225KA64L 
-0
-2
-2
-GCM21BR71C225KA64L(2.2)
-G-21_MUR-L
-
-GCM21BR71C225KA64L 
-0
-2
-2
-GCM21BR71C225KA64L(2.2)
-G-21_MUR-M
-
-GCM21BR71C225KA64L 
-0
-2
-2
-GRM21BR61A226ME51L(22)
-CAPC2012X140N
-
-
-0
-2
-2
-GRM21BR61C106KE15L(10)
-G-21_MUR
-
-GRM21BR61C106KE15L 
-0
-2
-2
-GRM21BR61C106KE15L(10)
-G-21_MUR-L
-
-GRM21BR61C106KE15L 
-0
-2
-2
-GRM21BR61C106KE15L(10)
-G-21_MUR-M
-
-GRM21BR61C106KE15L 
-0
-2
-2
-GRM21BR71C105KA01L (1)
-G-21_MUR (10k)
-
-GCM21BR71C225KA64L 
-0
-2
-2
-GRM21BR71C105KA01L (1)
-G-21_MUR-L
-
-GCM21BR71C225KA64L 
-0
-2
-2
-GRM21BR71C105KA01L (1)
-G-21_MUR-M
-
-GCM21BR71C225KA64L 
-0
-2
-2
-GRM21BR71C475KE51L(4.7)
-CAP_GRM0805_2X1P25_MUR
-
-GRM21BR71C475KE51L 
-0
-2
-2
-GRM21BR71C475KE51L(4.7)
-CAP_GRM0805_2X1P25_MUR-L
-
-GRM21BR71C475KE51L 
-0
-2
-2
-GRM21BR71C475KE51L(4.7)
-CAP_GRM0805_2X1P25_MUR-M
-
-GRM21BR71C475KE51L 
-0
-2
-2
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -58113,6 +57980,20 @@ heatsink
 0
 0
 0
+IR- Receiver
+NoneP157X157-2_LTO
+
+LTR-4206E 
+0
+2
+2
+IR-Emitter
+DIO_SFH_4545
+
+
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -64189,27 +64070,6 @@ solder jumper open
 0
 5
 3
-L293DD
-SO-20_STM
-
-L293DD 
-0
-20
-20
-L293DD
-SO-20_STM-L
-
-L293DD 
-0
-20
-20
-L293DD
-SO-20_STM-M
-
-L293DD 
-0
-20
-20
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -65680,6 +65540,27 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Mosfet
+SOT-23_3L_ONS
+
+2N7002LT1G 
+0
+3
+3
+Mosfet
+SOT-23_3L_ONS-L
+
+2N7002LT1G 
+0
+3
+3
+Mosfet
+SOT-23_3L_ONS-M
+
+2N7002LT1G 
+0
+3
+3
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -87807,27 +87688,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-RNCP0805FTD10K0 (10k)
-STA_RNCP0805_STP
-
-RNCP0805FTD10K0 
-0
-2
-2
-RNCP0805FTD10K0 (10k)
-STA_RNCP0805_STP-L
-
-RNCP0805FTD10K0 
-0
-2
-2
-RNCP0805FTD10K0 (10k)
-STA_RNCP0805_STP-M
-
-RNCP0805FTD10K0 
-0
-2
-2
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -88752,6 +88612,34 @@ Standex Meder SIL reed relais
 0
 4
 4
+Resistor- 1.8kohm
+RESC2012X60N
+
+
+0
+2
+2
+Resistor- 47k ohm
+RESC2012X60N
+
+
+0
+2
+2
+Resistor- 47k ohm
+RESC2012X60N (47kΩ)
+
+
+0
+2
+2
+Resistor- 300ohm
+RESC2012X60N
+
+
+0
+2
+2
 Resistor_SMD
 R_0201_0603Metric
 Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -98234,6 +98122,13 @@ micromouse5
 NoneP157X157-2_LTO (IR- Receiver)
 
 LTR-4206E 
+0
+2
+2
+micromouse5
+RESC2012X60N
+
+
 0
 2
 2

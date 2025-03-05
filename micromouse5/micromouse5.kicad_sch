@@ -2345,6 +2345,175 @@
 				)
 			)
 		)
+		(symbol "Device:LED"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LED diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "GCJ21BR72A104KA01L(0.1):GCJ21BR72A104KA01L"
 			(pin_names
 				(offset 0.254)
@@ -7960,6 +8129,276 @@
 				)
 			)
 		)
+		(symbol "Resistor- 300ohm:RK73H2ATTD3000F"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at -7.6244 2.5415 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "RK73H2ATTD3000F"
+				(at -7.63 -5.0866 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "RK73H2ATTD3000F:RESC2012X60N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "DigiKey_Part_Number" "2019-RK73H2ATTD3000FTR-ND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ATTD3000F/KOA+Speer/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\n                        \n                            300 Ohms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MF" "KOA Speer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "805 KOA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ATTD3000F/KOA+Speer/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "RK73H2ATTD3000F"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "RK73H2ATTD3000F_0_0"
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -4.445 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 1.905) (xy -3.175 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 -1.905) (xy -1.905 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 1.905) (xy -0.635 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -1.905) (xy 0.635 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 1.905 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 -1.905) (xy 3.175 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.905) (xy 4.445 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.905) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Resistor- 47kohm:RK73H2ARTTD4702F"
 			(pin_names
 				(offset 1.016)
@@ -8707,6 +9146,12 @@
 		(uuid "527fe65a-4429-4a8b-891a-ed47106880b4")
 	)
 	(junction
+		(at 167.64 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53079140-a187-4e16-bdb7-2a292378e152")
+	)
+	(junction
 		(at 58.42 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8785,6 +9230,12 @@
 		(uuid "962a9509-77ad-422f-97d5-5bbb38f3ae2c")
 	)
 	(junction
+		(at 205.74 246.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98384f52-8d85-4cb8-9256-195c77a04005")
+	)
+	(junction
 		(at 471.17 232.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8815,12 +9266,6 @@
 		(uuid "c0a0354c-d7c5-44fb-95b8-e00319199920")
 	)
 	(junction
-		(at 167.64 218.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c3585b61-21e0-4c1a-ad06-acd6cf373ed8")
-	)
-	(junction
 		(at 99.06 260.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8837,12 +9282,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c9fd5897-ec8a-4c28-a0d2-5d79bb3719ff")
-	)
-	(junction
-		(at 187.96 223.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cc420332-5527-4cdb-baee-b3b4fdf5d297")
 	)
 	(junction
 		(at 469.9 78.74)
@@ -8931,10 +9370,6 @@
 		(uuid "9bb33e6f-e3ac-4207-a562-5a0c6b810a5e")
 	)
 	(no_connect
-		(at 83.82 330.2)
-		(uuid "9d49230e-03ef-4a62-82cb-0697315ef65d")
-	)
-	(no_connect
 		(at 119.38 309.88)
 		(uuid "a067fbfe-d7fc-4765-a4c1-da87c46bb85d")
 	)
@@ -9014,6 +9449,26 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 246.38) (xy 186.69 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01b69da2-5077-44a1-870b-842d4f8732be")
+	)
+	(wire
+		(pts
+			(xy 179.07 288.29) (xy 182.88 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01bb42b0-064c-4c0a-a007-8a39a30aafef")
+	)
+	(wire
+		(pts
 			(xy 105.41 219.71) (xy 106.68 219.71)
 		)
 		(stroke
@@ -9021,16 +9476,6 @@
 			(type default)
 		)
 		(uuid "02ac47f0-8417-423a-a95b-6e9bfbe51ac6")
-	)
-	(wire
-		(pts
-			(xy 187.96 223.52) (xy 189.23 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02ae3ffc-bc33-4445-b0f5-70f11f8744ca")
 	)
 	(wire
 		(pts
@@ -9091,6 +9536,16 @@
 			(type default)
 		)
 		(uuid "08b53a33-6cb6-4de4-a2e7-919f35fb1b16")
+	)
+	(wire
+		(pts
+			(xy 73.66 330.2) (xy 83.82 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c8513c8-e569-4e8f-8b98-d452c6fa3c95")
 	)
 	(wire
 		(pts
@@ -9184,6 +9639,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 246.38) (xy 205.74 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "159dfa43-91ca-4164-b2bc-96c5e4e25960")
+	)
+	(wire
+		(pts
 			(xy 341.63 99.06) (xy 341.63 132.08)
 		)
 		(stroke
@@ -9254,7 +9719,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 271.78) (xy 181.61 271.78)
+			(xy 59.69 195.58) (xy 71.12 195.58)
 		)
 		(stroke
 			(width 0)
@@ -9341,16 +9806,6 @@
 			(type default)
 		)
 		(uuid "22b965e8-356c-4a6d-946c-70fda5dc95e6")
-	)
-	(wire
-		(pts
-			(xy 187.96 231.14) (xy 187.96 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24b2897a-47ce-4c22-98b0-ebb0f75e48b7")
 	)
 	(wire
 		(pts
@@ -9654,6 +10109,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 215.9) (xy 167.64 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ac9c9c3-1c07-40b3-9426-825c31922a15")
+	)
+	(wire
+		(pts
 			(xy 60.96 284.48) (xy 62.23 284.48)
 		)
 		(stroke
@@ -9801,16 +10266,6 @@
 			(type default)
 		)
 		(uuid "5ba0aa25-5ec2-4789-9a95-97a3c2e568d1")
-	)
-	(wire
-		(pts
-			(xy 187.96 223.52) (xy 186.69 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ddc4135-3531-4c8e-9401-ba1602e1cd39")
 	)
 	(wire
 		(pts
@@ -9994,6 +10449,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 246.38) (xy 209.55 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "755b7aea-a4cc-4edd-b852-beab91609c02")
+	)
+	(wire
+		(pts
 			(xy 83.82 76.2) (xy 96.52 76.2)
 		)
 		(stroke
@@ -10164,7 +10629,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 266.7) (xy 181.61 266.7)
+			(xy 59.69 190.5) (xy 71.12 190.5)
 		)
 		(stroke
 			(width 0)
@@ -10294,13 +10759,23 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 218.44) (xy 168.91 218.44)
+			(xy 167.64 241.3) (xy 186.69 241.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "92beeec3-e320-4b05-82d4-2ac27423563e")
+	)
+	(wire
+		(pts
+			(xy 205.74 233.68) (xy 205.74 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "930c22a5-70a5-4c7f-87bb-e3687e9ee4f1")
 	)
 	(wire
 		(pts
@@ -10311,6 +10786,16 @@
 			(type default)
 		)
 		(uuid "94452788-8d35-43d6-a3b8-972d8c548616")
+	)
+	(wire
+		(pts
+			(xy 203.2 288.29) (xy 209.55 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95a432a0-8ac0-461d-91b8-634dd2978c82")
 	)
 	(wire
 		(pts
@@ -10384,7 +10869,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 231.14) (xy 187.96 231.14)
+			(xy 186.69 215.9) (xy 205.74 215.9)
 		)
 		(stroke
 			(width 0)
@@ -10764,6 +11249,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 288.29) (xy 171.45 288.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf14b1f4-4f5a-4174-8a74-19043dfbdfb2")
+	)
+	(wire
+		(pts
 			(xy 157.48 143.51) (xy 163.83 143.51)
 		)
 		(stroke
@@ -10931,6 +11426,16 @@
 			(type default)
 		)
 		(uuid "d3862b7b-1f17-468d-8c9f-c3b2c3a61af2")
+	)
+	(wire
+		(pts
+			(xy 205.74 215.9) (xy 205.74 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4348e72-dbb8-4af5-92a3-f7dd2811959a")
 	)
 	(wire
 		(pts
@@ -11134,7 +11639,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 231.14) (xy 173.99 231.14)
+			(xy 167.64 215.9) (xy 179.07 215.9)
 		)
 		(stroke
 			(width 0)
@@ -11184,7 +11689,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 218.44) (xy 167.64 231.14)
+			(xy 167.64 212.09) (xy 167.64 215.9)
 		)
 		(stroke
 			(width 0)
@@ -11194,7 +11699,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 218.44) (xy 167.64 218.44)
+			(xy 166.37 212.09) (xy 167.64 212.09)
 		)
 		(stroke
 			(width 0)
@@ -11383,6 +11888,18 @@
 		(uuid "ffec0b00-98dd-417c-9612-25782ffb8dcf")
 	)
 	(rectangle
+		(start 153.67 273.05)
+		(end 220.98 297.18)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 146c085f-4fa9-4422-88f1-b69b7a91f8df)
+	)
+	(rectangle
 		(start 372.11 154.94)
 		(end 487.68 278.13)
 		(stroke
@@ -11407,8 +11924,8 @@
 		(uuid 7f8e5db7-6070-4ac2-a8b6-8effcd66fe65)
 	)
 	(rectangle
-		(start 152.4 208.28)
-		(end 203.2 242.57)
+		(start 153.67 208.28)
+		(end 223.52 260.35)
 		(stroke
 			(width 0)
 			(type dash)
@@ -11453,6 +11970,16 @@
 			(type none)
 		)
 		(uuid f80c891a-bb87-4b29-9420-cfec582eed85)
+	)
+	(text "Power Status LED"
+		(exclude_from_sim no)
+		(at 166.116 271.018 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+		)
+		(uuid "1246b824-73a3-4b0c-875f-3cac875b40e3")
 	)
 	(text "Right Emitter"
 		(exclude_from_sim no)
@@ -12502,7 +13029,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 170.18 269.24 0)
+		(at 59.69 193.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12512,7 +13039,7 @@
 		)
 		(uuid "5e46d033-594d-4ea9-855d-4fb5d73ecb7b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.0357 269.24 0)
+			(at 66.5457 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13072,6 +13599,28 @@
 			)
 		)
 	)
+	(global_label "3V3"
+		(shape input)
+		(at 162.56 246.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a08aa629-b02e-4f4c-b8a1-7538fdda6357")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.0672 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PC5"
 		(shape input)
 		(at 382.27 241.3 180)
@@ -13096,7 +13645,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 189.23 223.52 0)
+		(at 209.55 246.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13106,7 +13655,29 @@
 		)
 		(uuid "a80e4bd1-1504-4153-a10a-2219db085380")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 196.0857 223.52 0)
+			(at 216.4057 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 209.55 288.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab6450e8-8bf5-48a9-80b9-3345d1f134f7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 216.4057 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13206,7 +13777,7 @@
 	)
 	(global_label "SWCLK"
 		(shape input)
-		(at 181.61 271.78 0)
+		(at 71.12 195.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13216,7 +13787,7 @@
 		)
 		(uuid "b5c7e4a7-6400-4819-b997-947c5ab81011")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.8242 271.78 0)
+			(at 80.3342 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13272,7 +13843,7 @@
 	)
 	(global_label "NRST"
 		(shape input)
-		(at 170.18 264.16 0)
+		(at 59.69 187.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13282,7 +13853,7 @@
 		)
 		(uuid "b77f4b20-2a12-4af6-9e8c-509d75c47965")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.9428 264.16 0)
+			(at 67.4528 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13468,6 +14039,28 @@
 			)
 		)
 	)
+	(global_label "PC11"
+		(shape input)
+		(at 165.1 288.29 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ccdfa5f2-25cd-410b-be7f-593fd8bcb423")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.1558 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 313.69 267.97 270)
@@ -13558,7 +14151,7 @@
 	)
 	(global_label "NRST"
 		(shape input)
-		(at 166.37 218.44 180)
+		(at 166.37 212.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13568,7 +14161,7 @@
 		)
 		(uuid "df2e0574-1d59-4945-8d68-0c76b6e559ef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.6072 218.44 0)
+			(at 158.6072 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13618,6 +14211,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Power Status LED"
+		(shape input)
+		(at 73.66 330.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e618e6fa-230f-45c1-b4c5-37a9c25d20a2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 53.6812 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -13756,7 +14371,7 @@
 	)
 	(global_label "SWDIO"
 		(shape input)
-		(at 181.61 266.7 0)
+		(at 71.12 190.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13766,7 +14381,7 @@
 		)
 		(uuid "feaa9e30-dd41-47f5-b6ff-57f87a804520")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.4614 266.7 0)
+			(at 79.9714 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14519,6 +15134,144 @@
 		)
 	)
 	(symbol
+		(lib_id "Resistor- 47kohm:RK73H2ARTTD4702F")
+		(at 172.72 246.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2707d347-3f5d-4694-bfab-d980d2f4dca4")
+		(property "Reference" "R19"
+			(at 172.72 250.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47k Ohm"
+			(at 172.72 252.984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "RK73H2ARTTD4702F:RESC2012X60N"
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2019-RK73H2ARTTD4702FTR-ND"
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=snap"
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            47 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KOA Speer"
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "805 KOA"
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ARTTD4702F/KOA+Speer/view-part/?ref=eda"
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RK73H2ARTTD4702F"
+			(at 172.72 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01670757-52c4-4e78-abaa-7fe3f86ccfc1")
+		)
+		(pin "2"
+			(uuid "8a36f60f-8181-4b97-adba-4fe041ee2b73")
+		)
+		(instances
+			(project ""
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Resistor- 1.8kohm:RK73H2ATTD1801F")
 		(at 391.16 199.39 90)
 		(unit 1)
@@ -14720,6 +15473,74 @@
 			(project "micromouse5"
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 175.26 288.29 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2f9cefe8-cbcd-4629-bc5a-7d226d8f625f")
+		(property "Reference" "D5"
+			(at 176.8475 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 176.8475 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 175.26 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7a74c08-5bbd-4539-8dba-8aa8e72a43fe")
+		)
+		(pin "2"
+			(uuid "e0441a6d-ad8a-4aa8-a546-9d8378777a3c")
+		)
+		(instances
+			(project ""
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -16622,7 +17443,7 @@
 	)
 	(symbol
 		(lib_id "GCJ21BR72A104KA01L(0.1):GCJ21BR72A104KA01L")
-		(at 173.99 231.14 0)
+		(at 179.07 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16630,7 +17451,7 @@
 		(dnp no)
 		(uuid "57168300-b473-4901-9132-a21df0f31a2e")
 		(property "Reference" "C24"
-			(at 177.8 234.442 0)
+			(at 182.88 219.202 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16638,7 +17459,7 @@
 			)
 		)
 		(property "Value" "0.1 uF"
-			(at 177.546 236.982 0)
+			(at 182.626 221.742 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16646,7 +17467,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:G-21_MUR(0.1)"
-			(at 173.99 231.14 0)
+			(at 179.07 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16656,7 +17477,7 @@
 			)
 		)
 		(property "Datasheet" "GCJ21BR72A104KA01L"
-			(at 173.99 231.14 0)
+			(at 179.07 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16666,7 +17487,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 173.99 231.14 0)
+			(at 179.07 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17441,16 +18262,15 @@
 	)
 	(symbol
 		(lib_id "Button_FSM4JSMA:FSM4JSMA")
-		(at 179.07 220.98 0)
+		(at 196.85 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6a6418de-6014-4a23-b981-621989613f63")
 		(property "Reference" "SW1"
-			(at 177.8 210.82 0)
+			(at 195.58 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17458,7 +18278,7 @@
 			)
 		)
 		(property "Value" "Button"
-			(at 177.8 213.36 0)
+			(at 195.58 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17466,7 +18286,7 @@
 			)
 		)
 		(property "Footprint" "Button_FP_FSM4JSMA:TE_FSM4JSMA"
-			(at 179.07 220.98 0)
+			(at 196.85 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17476,7 +18296,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 220.98 0)
+			(at 196.85 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17485,7 +18305,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 179.07 220.98 0)
+			(at 196.85 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17494,7 +18314,7 @@
 			)
 		)
 		(property "PARTREV" "V"
-			(at 179.07 220.98 0)
+			(at 196.85 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17504,7 +18324,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturers  recommendations"
-			(at 179.07 220.98 0)
+			(at 196.85 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17514,7 +18334,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TE Connectivity / Alcoswitch"
-			(at 179.07 220.98 0)
+			(at 196.85 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19202,7 +20022,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 165.1 266.7 0)
+		(at 54.61 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19211,7 +20031,7 @@
 		(fields_autoplaced yes)
 		(uuid "b2be1e35-8b0a-4cfc-be3a-352b034a06a4")
 		(property "Reference" "J5"
-			(at 165.735 259.08 0)
+			(at 55.245 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19219,7 +20039,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 165.735 261.62 0)
+			(at 55.245 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19227,7 +20047,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 266.7 0)
+			(at 54.61 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19236,7 +20056,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 266.7 0)
+			(at 54.61 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19245,7 +20065,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 165.1 266.7 0)
+			(at 54.61 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20042,6 +20862,217 @@
 			(project "micromouse5"
 				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
 					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
+		(at 205.74 220.98 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eee2ee9e-45be-4cb6-9a7e-2061f777615f")
+		(property "Reference" "R20"
+			(at 208.28 226.0599 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100 Ohm"
+			(at 208.28 228.5999 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
+			(at 205.74 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "RNCP0805FTD100R"
+			(at 205.74 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 205.74 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09b21034-d3f1-4b1e-86d0-6568329f07c2")
+		)
+		(pin "2"
+			(uuid "400ae84b-06e0-447e-a88d-2a664241926e")
+		)
+		(instances
+			(project "micromouse5"
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Resistor- 300ohm:RK73H2ATTD3000F")
+		(at 193.04 288.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2bcf1a6-22e3-40c4-8b9c-f1c87fadeac6")
+		(property "Reference" "R21"
+			(at 193.04 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "300 Ohm"
+			(at 193.04 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "RK73H2ATTD3000F:RESC2012X60N"
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" "2019-RK73H2ATTD3000FTR-ND"
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RK73H2ATTD3000F/KOA+Speer/view-part/?ref=snap"
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n                        \n                            300 Ohms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film\n                        \n"
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "KOA Speer"
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "805 KOA"
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/RK73H2ATTD3000F/KOA+Speer/view-part/?ref=eda"
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "RK73H2ATTD3000F"
+			(at 193.04 288.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "babf3f6f-fe24-4178-bcb9-28d51b4292ef")
+		)
+		(pin "2"
+			(uuid "c0481b82-69aa-4526-b238-f90a6867a1ad")
+		)
+		(instances
+			(project ""
+				(path "/afbe2d40-4a52-44ad-a632-ed06745a7c8a"
+					(reference "R21")
 					(unit 1)
 				)
 			)
