@@ -9370,6 +9370,10 @@
 		(uuid "9bb33e6f-e3ac-4207-a562-5a0c6b810a5e")
 	)
 	(no_connect
+		(at 83.82 330.2)
+		(uuid "9bd1ccc9-d3f9-41c7-aac9-0c97f42cd465")
+	)
+	(no_connect
 		(at 119.38 309.88)
 		(uuid "a067fbfe-d7fc-4765-a4c1-da87c46bb85d")
 	)
@@ -9536,16 +9540,6 @@
 			(type default)
 		)
 		(uuid "08b53a33-6cb6-4de4-a2e7-919f35fb1b16")
-	)
-	(wire
-		(pts
-			(xy 73.66 330.2) (xy 83.82 330.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c8513c8-e569-4e8f-8b98-d452c6fa3c95")
 	)
 	(wire
 		(pts
@@ -12103,7 +12097,7 @@
 		)
 		(uuid "bdeb34ea-f7da-46c9-9b9f-f46a0b098397")
 	)
-	(global_label "Right Encoder Ch1"
+	(global_label "PA0"
 		(shape input)
 		(at 124.46 279.4 0)
 		(fields_autoplaced yes)
@@ -12115,7 +12109,7 @@
 		)
 		(uuid "01ef5111-1726-4127-a802-158823814111")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.4668 279.4 0)
+			(at 131.0133 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12191,7 +12185,7 @@
 			)
 		)
 	)
-	(global_label "Motor"
+	(global_label "PB6"
 		(shape input)
 		(at 123.19 337.82 0)
 		(fields_autoplaced yes)
@@ -12203,7 +12197,7 @@
 		)
 		(uuid "09877d83-8f73-4bf9-97b5-ddaa4e8bbfca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.4365 337.82 0)
+			(at 129.9247 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12213,7 +12207,7 @@
 			)
 		)
 	)
-	(global_label "Front Right Emitter"
+	(global_label "PC3"
 		(shape input)
 		(at 73.66 309.88 180)
 		(fields_autoplaced yes)
@@ -12225,7 +12219,7 @@
 		)
 		(uuid "0a60acd5-b8bd-467c-8cfa-b1642592ce4c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.1693 309.88 0)
+			(at 66.9253 309.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12587,7 +12581,7 @@
 			)
 		)
 	)
-	(global_label "Right Emitter"
+	(global_label "PC2"
 		(shape input)
 		(at 73.66 307.34 180)
 		(fields_autoplaced yes)
@@ -12599,7 +12593,7 @@
 		)
 		(uuid "389bada7-b045-4baa-89df-48c51153b68a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 58.0354 307.34 0)
+			(at 66.9253 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12653,7 +12647,7 @@
 			)
 		)
 	)
-	(global_label "Motor"
+	(global_label "PB7"
 		(shape input)
 		(at 123.19 340.36 0)
 		(fields_autoplaced yes)
@@ -12665,7 +12659,7 @@
 		)
 		(uuid "3c8c24af-d0db-45a5-92c3-546a9370f725")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.4365 340.36 0)
+			(at 129.9247 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12785,7 +12779,7 @@
 			)
 		)
 	)
-	(global_label "Front Right Receiver"
+	(global_label "PA4"
 		(shape input)
 		(at 124.46 289.56 0)
 		(fields_autoplaced yes)
@@ -12797,7 +12791,7 @@
 		)
 		(uuid "4e40c853-3a0c-47b7-9aee-a66ed3452a90")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.1604 289.56 0)
+			(at 131.0133 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12807,7 +12801,7 @@
 			)
 		)
 	)
-	(global_label "Right Receiver"
+	(global_label "PA3"
 		(shape input)
 		(at 124.46 287.02 0)
 		(fields_autoplaced yes)
@@ -12819,7 +12813,7 @@
 		)
 		(uuid "4f8921e3-be6c-4531-8a6f-f2d1399b24ac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 141.2943 287.02 0)
+			(at 131.0133 287.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12961,7 +12955,7 @@
 			)
 		)
 	)
-	(global_label "Right Encoder Ch2"
+	(global_label "PA1"
 		(shape input)
 		(at 124.46 281.94 0)
 		(fields_autoplaced yes)
@@ -12973,7 +12967,7 @@
 		)
 		(uuid "58c948de-d064-4f85-91eb-d47c662996f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.4668 281.94 0)
+			(at 131.0133 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13005,7 +12999,7 @@
 			)
 		)
 	)
-	(global_label "Front Left Emitter"
+	(global_label "PC5"
 		(shape input)
 		(at 73.66 314.96 180)
 		(fields_autoplaced yes)
@@ -13017,7 +13011,7 @@
 		)
 		(uuid "5b16e465-b5d7-413f-ba6b-ab87c18fcaf3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.4997 314.96 0)
+			(at 66.9253 314.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13379,7 +13373,7 @@
 			)
 		)
 	)
-	(global_label "Left Receiver"
+	(global_label "PA5"
 		(shape input)
 		(at 124.46 292.1 0)
 		(fields_autoplaced yes)
@@ -13391,7 +13385,7 @@
 		)
 		(uuid "86782e8b-7a83-4f13-a12f-3bcfb16f0fa9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.9639 292.1 0)
+			(at 131.0133 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13423,7 +13417,7 @@
 			)
 		)
 	)
-	(global_label "Left Encoder Ch1"
+	(global_label "PA8"
 		(shape input)
 		(at 125.73 299.72 0)
 		(fields_autoplaced yes)
@@ -13435,7 +13429,7 @@
 		)
 		(uuid "8b9914a0-cd23-4820-99a9-b1f82db1e311")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.4064 299.72 0)
+			(at 132.2833 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13445,7 +13439,7 @@
 			)
 		)
 	)
-	(global_label "Motor"
+	(global_label "PB9"
 		(shape input)
 		(at 123.19 345.44 0)
 		(fields_autoplaced yes)
@@ -13457,7 +13451,7 @@
 		)
 		(uuid "8c6b38e2-3e3b-4eaa-a9f2-244faa833436")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.4365 345.44 0)
+			(at 129.9247 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13555,7 +13549,7 @@
 			)
 		)
 	)
-	(global_label "Left Emitter"
+	(global_label "PC4"
 		(shape input)
 		(at 73.66 312.42 180)
 		(fields_autoplaced yes)
@@ -13567,7 +13561,7 @@
 		)
 		(uuid "98be2d70-1387-47bd-8c83-dce6764e524a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.3658 312.42 0)
+			(at 66.9253 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13577,7 +13571,7 @@
 			)
 		)
 	)
-	(global_label "Front Left Receiver"
+	(global_label "PA6"
 		(shape input)
 		(at 124.46 294.64 0)
 		(fields_autoplaced yes)
@@ -13589,7 +13583,7 @@
 		)
 		(uuid "9cd6ab21-2e3c-49a1-9bc3-627e8ab8ea67")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.83 294.64 0)
+			(at 131.0133 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13929,7 +13923,7 @@
 			)
 		)
 	)
-	(global_label "Motor"
+	(global_label "PB8"
 		(shape input)
 		(at 123.19 342.9 0)
 		(fields_autoplaced yes)
@@ -13941,7 +13935,7 @@
 		)
 		(uuid "c3e98842-1d42-4885-983b-2573ebdd8081")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.4365 342.9 0)
+			(at 129.9247 342.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13951,7 +13945,7 @@
 			)
 		)
 	)
-	(global_label "Left Encoder Ch2"
+	(global_label "PA9"
 		(shape input)
 		(at 125.73 302.26 0)
 		(fields_autoplaced yes)
@@ -13963,7 +13957,7 @@
 		)
 		(uuid "c6f9a85d-4c7e-422a-a758-b1a64bf16675")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.4064 302.26 0)
+			(at 132.2833 302.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14039,7 +14033,7 @@
 			)
 		)
 	)
-	(global_label "PC11"
+	(global_label "3V3"
 		(shape input)
 		(at 165.1 288.29 180)
 		(fields_autoplaced yes)
@@ -14051,7 +14045,7 @@
 		)
 		(uuid "ccdfa5f2-25cd-410b-be7f-593fd8bcb423")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.1558 288.29 0)
+			(at 158.6072 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14211,28 +14205,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Power Status LED"
-		(shape input)
-		(at 73.66 330.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e618e6fa-230f-45c1-b4c5-37a9c25d20a2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.6812 330.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
