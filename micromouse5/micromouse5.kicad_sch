@@ -15130,7 +15130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RK73H2ARTTD4702F:RESC2012X60N"
+		(property "Footprint" "micromouse5:RESC2012X60N (47kΩ)"
 			(at 172.72 246.38 0)
 			(effects
 				(font
@@ -15476,7 +15476,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED- Green:LED_LTST-C170GKT_LTO"
 			(at 175.26 288.29 0)
 			(effects
 				(font
@@ -18257,7 +18257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_FP_FSM4JSMA:TE_FSM4JSMA"
+		(property "Footprint" "Button:SW4_FSM4JSMA_TEC"
 			(at 196.85 243.84 0)
 			(effects
 				(font
@@ -18362,7 +18362,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 35.56 78.74 0)
 			(effects
 				(font
@@ -18442,7 +18442,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -20018,7 +20018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 54.61 190.5 0)
 			(effects
 				(font
@@ -20378,7 +20378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SW_1218_EWI"
+		(property "Footprint" "Switch:SW_1218_EWI"
 			(at 77.47 121.92 0)
 			(effects
 				(font
@@ -20937,7 +20937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RK73H2ATTD3000F:RESC2012X60N"
+		(property "Footprint" "Resistor- 300ohm:RESC2012X60N"
 			(at 193.04 288.29 0)
 			(effects
 				(font
