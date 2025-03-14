@@ -9213,6 +9213,12 @@
 		(uuid "3f4aa2e7-7e42-4a29-9192-fbcd939aa8df")
 	)
 	(junction
+		(at 400.05 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40b2f5f7-b094-4aba-9b8b-436ea024f394")
+	)
+	(junction
 		(at 441.96 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9289,6 +9295,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8971eacc-d6e6-4c62-9f2f-f4bec709072b")
+	)
+	(junction
+		(at 270.51 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8fd8c53b-8ca3-4218-973d-aa6555fa5220")
 	)
 	(junction
 		(at 185.42 26.67)
@@ -9369,10 +9381,22 @@
 		(uuid "c9fd5897-ec8a-4c28-a0d2-5d79bb3719ff")
 	)
 	(junction
+		(at 269.24 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd12c7f4-bb60-43fd-a98a-dcd481bc4a86")
+	)
+	(junction
 		(at 469.9 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d137a623-5df3-4217-94bc-978079854cca")
+	)
+	(junction
+		(at 400.05 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da6adf3b-72b4-4a1f-b325-b3d359d611c2")
 	)
 	(junction
 		(at 102.87 368.3)
@@ -9575,6 +9599,16 @@
 			(type default)
 		)
 		(uuid "02ffc031-6633-4036-af87-9c7c73152c52")
+	)
+	(wire
+		(pts
+			(xy 267.97 107.95) (xy 269.24 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03f182da-6b8d-40f8-9437-223eb3589773")
 	)
 	(wire
 		(pts
@@ -9858,6 +9892,16 @@
 	)
 	(wire
 		(pts
+			(xy 400.05 241.3) (xy 401.32 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1db84398-13f2-4388-9b42-d09967218da9")
+	)
+	(wire
+		(pts
 			(xy 312.42 97.79) (xy 312.42 95.25)
 		)
 		(stroke
@@ -9918,7 +9962,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 107.95) (xy 259.08 107.95)
+			(xy 248.92 107.95) (xy 255.27 107.95)
 		)
 		(stroke
 			(width 0)
@@ -9935,6 +9979,16 @@
 			(type default)
 		)
 		(uuid "2a84a2e4-c494-4667-974c-f1e45e46cd29")
+	)
+	(wire
+		(pts
+			(xy 400.05 245.11) (xy 400.05 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b140b36-6f63-46a5-962b-426d8e5a6e7c")
 	)
 	(wire
 		(pts
@@ -10038,6 +10092,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 241.3) (xy 270.51 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a50b939-f38e-47bc-a82b-be3b450a1a27")
+	)
+	(wire
+		(pts
 			(xy 340.36 190.5) (xy 340.36 212.09)
 		)
 		(stroke
@@ -10108,7 +10172,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 241.3) (xy 259.08 241.3)
+			(xy 250.19 241.3) (xy 256.54 241.3)
 		)
 		(stroke
 			(width 0)
@@ -10135,6 +10199,16 @@
 			(type default)
 		)
 		(uuid "42a49dc7-720b-446f-ba7d-8267136fcbbe")
+	)
+	(wire
+		(pts
+			(xy 274.32 242.57) (xy 274.32 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43be6176-e067-455f-927e-05e8739f2965")
 	)
 	(wire
 		(pts
@@ -10588,7 +10662,7 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 107.95) (xy 403.86 111.76)
+			(xy 400.05 107.95) (xy 400.05 111.76)
 		)
 		(stroke
 			(width 0)
@@ -10665,6 +10739,16 @@
 			(type default)
 		)
 		(uuid "7be4634a-b3b5-4ef0-8a56-c45de0005890")
+	)
+	(wire
+		(pts
+			(xy 269.24 111.76) (xy 274.32 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d96d10a-c4e9-4e7d-bc89-256ae63be8f6")
 	)
 	(wire
 		(pts
@@ -10828,6 +10912,16 @@
 	)
 	(wire
 		(pts
+			(xy 400.05 111.76) (xy 403.86 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f5b93a7-4565-4703-8dfb-7056bff43181")
+	)
+	(wire
+		(pts
 			(xy 312.42 107.95) (xy 313.69 107.95)
 		)
 		(stroke
@@ -10865,6 +10959,16 @@
 			(type default)
 		)
 		(uuid "94452788-8d35-43d6-a3b8-972d8c548616")
+	)
+	(wire
+		(pts
+			(xy 397.51 107.95) (xy 400.05 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9469e19e-b125-4dd7-b868-847c53df82ef")
 	)
 	(wire
 		(pts
@@ -11068,16 +11172,6 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 241.3) (xy 403.86 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a52b47b5-6360-48ba-ad8e-5e426495f7a5")
-	)
-	(wire
-		(pts
 			(xy 119.38 299.72) (xy 125.73 299.72)
 		)
 		(stroke
@@ -11158,6 +11252,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 241.3) (xy 271.78 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adac102d-efa4-4c8d-8584-23266d82f379")
+	)
+	(wire
+		(pts
 			(xy 341.63 99.06) (xy 345.44 99.06)
 		)
 		(stroke
@@ -11225,6 +11329,16 @@
 			(type default)
 		)
 		(uuid "b35f79eb-7515-4165-a883-aecd492b854c")
+	)
+	(wire
+		(pts
+			(xy 270.51 242.57) (xy 274.32 242.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6db4f36-1e32-4b0b-bef2-11a5af230120")
 	)
 	(wire
 		(pts
@@ -11438,7 +11552,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 107.95) (xy 388.62 107.95)
+			(xy 378.46 107.95) (xy 384.81 107.95)
 		)
 		(stroke
 			(width 0)
@@ -11668,6 +11782,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 107.95) (xy 271.78 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e649e4af-cbd8-43d1-b317-fd234c1aff94")
+	)
+	(wire
+		(pts
 			(xy 443.23 107.95) (xy 443.23 132.08)
 		)
 		(stroke
@@ -11828,7 +11952,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 107.95) (xy 274.32 111.76)
+			(xy 269.24 107.95) (xy 269.24 111.76)
 		)
 		(stroke
 			(width 0)
@@ -11908,7 +12032,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 241.3) (xy 388.62 241.3)
+			(xy 382.27 241.3) (xy 387.35 241.3)
 		)
 		(stroke
 			(width 0)
@@ -11928,6 +12052,16 @@
 	)
 	(wire
 		(pts
+			(xy 400.05 107.95) (xy 401.32 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa186c36-8d2a-49ee-8d70-2cbfe3376c52")
+	)
+	(wire
+		(pts
 			(xy 313.69 265.43) (xy 341.63 265.43)
 		)
 		(stroke
@@ -11938,7 +12072,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 241.3) (xy 274.32 245.11)
+			(xy 270.51 241.3) (xy 270.51 242.57)
 		)
 		(stroke
 			(width 0)
@@ -11955,6 +12089,16 @@
 			(type default)
 		)
 		(uuid "fe333904-1194-4b03-8a81-5a1205f01707")
+	)
+	(wire
+		(pts
+			(xy 403.86 245.11) (xy 400.05 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffae4e77-8462-4618-97f4-fb06ba628251")
 	)
 	(wire
 		(pts
@@ -12382,7 +12526,7 @@
 	)
 	(global_label "PC3"
 		(shape input)
-		(at 382.27 107.95 180)
+		(at 378.46 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12392,7 +12536,7 @@
 		)
 		(uuid "15a1e5af-55a3-4eca-973c-63e009903e06")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 375.5353 107.95 0)
+			(at 371.7253 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13262,7 +13406,7 @@
 	)
 	(global_label "PC4"
 		(shape input)
-		(at 252.73 241.3 180)
+		(at 250.19 241.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13272,7 +13416,7 @@
 		)
 		(uuid "74e73326-d371-4707-b552-7017f2da4411")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 245.9953 241.3 0)
+			(at 243.4553 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14406,7 +14550,7 @@
 	)
 	(global_label "PC2"
 		(shape input)
-		(at 252.73 107.95 180)
+		(at 248.92 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14416,7 +14560,7 @@
 		)
 		(uuid "fd597dcd-6a30-4c37-a5ba-decfc6b0850e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 245.9953 107.95 0)
+			(at 242.1853 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17422,7 +17566,7 @@
 	)
 	(symbol
 		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
-		(at 259.08 107.95 0)
+		(at 255.27 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17431,7 +17575,7 @@
 		(fields_autoplaced yes)
 		(uuid "552e15d0-39ca-412a-be13-f5085aba9a4c")
 		(property "Reference" "R2"
-			(at 265.43 101.6 0)
+			(at 261.62 101.6 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17439,7 +17583,7 @@
 			)
 		)
 		(property "Value" "100 Ohm"
-			(at 265.43 104.14 0)
+			(at 261.62 104.14 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17447,7 +17591,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
-			(at 259.08 107.95 0)
+			(at 255.27 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17457,7 +17601,7 @@
 			)
 		)
 		(property "Datasheet" "RNCP0805FTD100R"
-			(at 259.08 107.95 0)
+			(at 255.27 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17467,7 +17611,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.08 107.95 0)
+			(at 255.27 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19997,7 +20141,7 @@
 	)
 	(symbol
 		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
-		(at 388.62 241.3 0)
+		(at 387.35 241.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20006,7 +20150,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad39cabf-4b1a-404a-8267-4f88f38d172e")
 		(property "Reference" "R13"
-			(at 394.97 234.95 0)
+			(at 393.7 234.95 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20014,7 +20158,7 @@
 			)
 		)
 		(property "Value" "100 Ohm"
-			(at 394.97 237.49 0)
+			(at 393.7 237.49 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20022,7 +20166,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
-			(at 388.62 241.3 0)
+			(at 387.35 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20032,7 +20176,7 @@
 			)
 		)
 		(property "Datasheet" "RNCP0805FTD100R"
-			(at 388.62 241.3 0)
+			(at 387.35 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20042,7 +20186,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 388.62 241.3 0)
+			(at 387.35 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20640,7 +20784,7 @@
 	)
 	(symbol
 		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
-		(at 388.62 107.95 0)
+		(at 384.81 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20649,7 +20793,7 @@
 		(fields_autoplaced yes)
 		(uuid "c3133ac1-31bf-4ff0-93db-67c5dfb55076")
 		(property "Reference" "R5"
-			(at 394.97 101.6 0)
+			(at 391.16 101.6 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20657,7 +20801,7 @@
 			)
 		)
 		(property "Value" "100 Ohm"
-			(at 394.97 104.14 0)
+			(at 391.16 104.14 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20665,7 +20809,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
-			(at 388.62 107.95 0)
+			(at 384.81 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20675,7 +20819,7 @@
 			)
 		)
 		(property "Datasheet" "RNCP0805FTD100R"
-			(at 388.62 107.95 0)
+			(at 384.81 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20685,7 +20829,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 388.62 107.95 0)
+			(at 384.81 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20847,7 +20991,7 @@
 	)
 	(symbol
 		(lib_id "RNCP0805FTD100R(100 resistor):RNCP0805FTD100R")
-		(at 259.08 241.3 0)
+		(at 256.54 241.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20856,7 +21000,7 @@
 		(fields_autoplaced yes)
 		(uuid "d89848df-ea59-4a71-8255-be39dd687161")
 		(property "Reference" "R9"
-			(at 265.43 234.95 0)
+			(at 262.89 234.95 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20864,7 +21008,7 @@
 			)
 		)
 		(property "Value" "100 Ohm"
-			(at 265.43 237.49 0)
+			(at 262.89 237.49 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20872,7 +21016,7 @@
 			)
 		)
 		(property "Footprint" "micromouse5:STA_RNCP0805_STP(100 ohm)"
-			(at 259.08 241.3 0)
+			(at 256.54 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20882,7 +21026,7 @@
 			)
 		)
 		(property "Datasheet" "RNCP0805FTD100R"
-			(at 259.08 241.3 0)
+			(at 256.54 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20892,7 +21036,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.08 241.3 0)
+			(at 256.54 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
