@@ -1,4 +1,32 @@
-24260924696924332
+24243441496854642
+0.1_uF_Capacitor
+CAPC2012X140N
+
+
+0
+2
+2
+4.7_uF_Capacitor
+CAPC1005X55N
+
+
+0
+2
+2
+10_Microfarad_Capacitor_GRM21BR61C106KE15L
+CAPC2012X135N
+
+
+0
+2
+2
+22_Microfarad_Capacitor_GRM21BR61A226ME51L
+CAPC2012X140N
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -363,27 +391,6 @@ battery CR-3032 coin cell vertical
 0
 2
 2
-Button
-SW4_FSM4JSMA_TEC
-
-FSM4JSMA 
-0
-4
-4
-Button
-SW4_FSM4JSMA_TEC-L
-
-FSM4JSMA 
-0
-4
-4
-Button
-SW4_FSM4JSMA_TEC-M
-
-FSM4JSMA 
-0
-4
-4
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -2722,27 +2729,6 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
-Capacitor-0.1uF
-CAP_GRM0805_2X1P25_MUR
-
-GRM21BR71C475KE51L 
-0
-2
-2
-Capacitor-0.1uF
-CAP_GRM0805_2X1P25_MUR-L
-
-GRM21BR71C475KE51L 
-0
-2
-2
-Capacitor-0.1uF
-CAP_GRM0805_2X1P25_MUR-M
-
-GRM21BR71C475KE51L 
-0
-2
-2
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -57861,6 +57847,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+H-Bridge
+SOIC127P1032X265-20N
+
+
+0
+20
+20
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -58001,20 +57994,6 @@ heatsink
 0
 0
 0
-IR- Receiver
-NoneP157X157-2_LTO
-
-LTR-4206E 
-0
-2
-2
-IR-Emitter
-DIO_SFH_4545
-
-
-0
-2
-2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -63944,6 +63923,13 @@ THT
 0
 4
 2
+JST_Connector_footprints
+CONN2_B2B-PH-K-S_JST
+
+B2B-PH-K-S 
+0
+2
+2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -64091,13 +64077,6 @@ solder jumper open
 0
 5
 3
-LED- Green
-LED_LTST-C170GKT_LTO
-
-LTST-C170GKT 
-0
-2
-2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -65568,27 +65547,6 @@ ESP8266 WiFi microcontroller
 0
 16
 16
-Mosfet
-SOT-23_3L_ONS
-
-2N7002LT1G 
-0
-3
-3
-Mosfet
-SOT-23_3L_ONS-L
-
-2N7002LT1G 
-0
-3
-3
-Mosfet
-SOT-23_3L_ONS-M
-
-2N7002LT1G 
-0
-3
-3
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -85574,13 +85532,6 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
-Pololu_Motor
-Pololu_Motor
-
-
-0
-0
-0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -88647,34 +88598,6 @@ Standex Meder SIL reed relais
 0
 4
 4
-Resistor- 1.8kohm
-RESC2012X60N
-
-
-0
-2
-2
-Resistor- 47k ohm
-RESC2012X60N
-
-
-0
-2
-2
-Resistor- 47k ohm
-RESC2012X60N (47kΩ)
-
-
-0
-2
-2
-Resistor- 300ohm
-RESC2012X60N
-
-
-0
-2
-2
 Resistor_SMD
 R_0201_0603Metric
 Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -90649,13 +90572,6 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
-Switch
-SW_1218_EWI
-
-EG1218 
-0
-3
-3
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -98090,6 +98006,13 @@ Varistor VF
 0
 2
 2
+Voltage_Regulator_AZ1117IH-3.3TRG1
+SOT230P700X185-4N
+
+
+0
+4
+4
 micromouse5
 BO_CR0805(51 ohm)
 
@@ -98223,3 +98146,10 @@ RNCP0805FTD100R
 0
 2
 2
+mm_Switch
+SW_1218_EWI
+
+EG1218 
+0
+3
+3
